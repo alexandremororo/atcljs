@@ -204,23 +204,98 @@
       overflow: visible;
     }
 
-    .card header {
-      padding: 14px 16px;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
+ /* Bloco do cabeçalho do card */
+  .card header {
+    display: flex;
+    align-items: flex-start; /* garante o selo no topo do título */
+    gap: 10px;               /* espaçamento entre título e selo */
+    padding: 14px 16px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  }
 
-    .tag {
-      font-size: 11px;
-      font-weight: 800;
-      color: #0b1410;
-      background: #86efac;
-      padding: 2px 8px;
-      border-radius: 999px;
-    }
+  /* Bloco da esquerda (título + código) */
+  .card header > div {
+    flex: 1 1 auto;
+    min-width: 0; /* evita quebra desnecessária do selo */
+  }
 
+  /* Título longo pode quebrar sem empurrar o selo */
+  .card header > div strong {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  /* Header vira referência para posicionamento absoluto */
+.card header {
+  position: relative;              /* 🔑 */
+  display: flex;
+  align-items: flex-start;
+  padding: 14px 16px;              /* mantém seu padding */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  gap: 12px;
+}
+
+/* Título ganha “respiro” à direita para o selo não sobrepor */
+.card header > div {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding-right: 38px;             /* espaço pro selo (28px + folga) */
+}
+
+/* —— Patch de alinhamento fino (título + COD + selo) —— */
+
+/* 1) Mantém tudo na MESMA linha e alinha pelas bases do texto */
+.card header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;   /* ← antes estava center */
+  gap: 12px;
+}
+
+/* 2) Bloco da esquerda: título ocupa espaço, COD não quebra */
+.card header > div {
+  display: flex;
+  align-items: baseline;   /* alinha títulos e COD pela base */
+  flex-wrap: nowrap;       /* evita pular linha entre título e COD */
+  gap: 6px;
+  flex: 1 1 auto;
+  min-width: 0;            /* permite encurtar sem quebrar layout */
+}
+
+/* 3) Título pode encurtar com reticências (não força nowrap) */
+.card header > div strong {
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  white-space: normal;     /* ← remove o nowrap que podia quebrar tudo */
+  overflow: hidden;        /* ativa reticências */
+  text-overflow: ellipsis;
+}
+
+/* 4) “• COD X” fica sempre inteirinho na mesma linha */
+.card header > div .count {
+  white-space: nowrap;     /* COD nunca quebra */
+  line-height: 1.2;
+}
+
+/* 5) Selo (UF) mantém posição, sem subir/descer */
+.card header .tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #86efac;
+  color: #0b1410;
+  font-size: 11px;
+  font-weight: 800;
+  width: 24px;
+  height: 24px;
+  border-radius: 5px;  /* leve arredondamento */
+  line-height: 1;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+/* —— Fim do patch —— */ 
     .card .body {
       padding: 12px 16px;
       display: grid;
@@ -427,138 +502,214 @@
       });
     }
 
-    const resultado = document.getElementById("resultado");
-    const tipoBusca = document.getElementById("tipoBusca");
-    const valorBusca = document.getElementById("valorBusca");
-    const ufFiltro = document.getElementById("ufFiltro");
-    const qtd = document.getElementById("qtd");
-    const dica = document.getElementById("dica");
-    const btnBuscar = document.getElementById("btnBuscar");
-    const btnLimpar = document.getElementById("btnLimpar");
-    const hasSuggestion = (val) => REGISTROS.some(r => (r.filial || '').toString().trim().toLowerCase() === (val || '').toString().trim().toLowerCase());
+    // ————————————————————————————————
+  // Função para formatar a data (iniciovenda → DD/MM/AAAA)
+  // ————————————————————————————————
+  function formatarDataBR(dt) {
+    if (!dt) return null;
+    const raw = String(dt).trim().split(' ')[0]; // pega só a parte YYYY-MM-DD
+    const [yyyy, mm, dd] = raw.split('-');
+    if (yyyy && mm && dd) return `${dd.padStart(2, '0')}/${mm.padStart(2, '0')}/${yyyy}`;
+    const d = new Date(dt);
+    if (isNaN(d)) return null;
+    return d.toLocaleDateString('pt-BR');
+  }
 
-    // UFs
-    const ufs = Array.from(new Set(REGISTROS.map(r => (r.estado || r.uf || '').toString().trim())))
-      .filter(Boolean).sort();
-    for (const uf of ufs) {
-      const opt = document.createElement('option');
-      opt.value = uf; opt.textContent = uf;
-      ufFiltro.appendChild(opt);
+  // ————————————————————————————————
+  // Configuração e renderização principal
+  // ————————————————————————————————
+  const resultado = document.getElementById("resultado");
+  const tipoBusca = document.getElementById("tipoBusca");
+  const valorBusca = document.getElementById("valorBusca");
+  const ufFiltro = document.getElementById("ufFiltro");
+  const qtd = document.getElementById("qtd");
+  const dica = document.getElementById("dica");
+  const btnBuscar = document.getElementById("btnBuscar");
+  const btnLimpar = document.getElementById("btnLimpar");
+  const hasSuggestion = (val) =>
+    REGISTROS.some(
+      (r) =>
+        (r.filial || '').toString().trim().toLowerCase() ===
+        (val || '').toString().trim().toLowerCase()
+    );
+
+  // ————————————————————————————————
+  // Preenche lista de UFs
+  // ————————————————————————————————
+  const ufs = Array.from(new Set(REGISTROS.map(r => (r.estado || r.uf || '').toString().trim())))
+    .filter(Boolean).sort();
+  for (const uf of ufs) {
+    const opt = document.createElement('option');
+    opt.value = uf;
+    opt.textContent = uf;
+    ufFiltro.appendChild(opt);
+  }
+
+  // ————————————————————————————————
+  // Funções auxiliares
+  // ————————————————————————————————
+  function normaliza(s) {
+    return (s || '').toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  }
+  function soDigitos(s) { return (s || '').toString().replace(/\D/g, ''); }
+
+  function matchRegistro(r, chave, needle) {
+    const n = normaliza(needle);
+    if (!n) return true;
+    switch (chave) {
+      case 'cnpj': return soDigitos(r.cnpj).includes(soDigitos(needle));
+      case 'cod': return ((r.cod || '').toString().replace(/\D/g, '') === soDigitos(needle));
+      case 'filial': return normaliza(r.filial).includes(n);
+      default: return false;
+    }
+  }
+
+  // ————————————————————————————————
+  // Filtro principal
+  // ————————————————————————————————
+  function filtrar() {
+    const chave = tipoBusca.value;
+    const texto = valorBusca.value;
+    const uf = ufFiltro.value;
+
+    let lista = REGISTROS.filter(r => {
+      const okBusca = matchRegistro(r, chave, texto);
+      const okUF = uf ? (normaliza(r.estado || r.uf || '') === normaliza(uf)) : true;
+      return okBusca && okUF;
+    });
+
+    if (chave === 'cod' && texto) {
+      const c = soDigitos(texto);
+      const exatos = REGISTROS.filter(r =>
+        ((r.cod || '').toString().replace(/\D/g, '') === c) &&
+        (uf ? (normaliza(r.estado || r.uf || '') === normaliza(uf)) : true)
+      );
+      if (exatos.length) lista = [exatos[0]];
     }
 
-    function normaliza(s) {
-      return (s || '').toString().toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g, '');
-    }
-    function soDigitos(s) { return (s || '').toString().replace(/\\D/g, ''); }
-
-    function matchRegistro(r, chave, needle) {
-      const n = normaliza(needle);
-      if (!n) return true;
-      switch (chave) {
-        case 'cnpj': return soDigitos(r.cnpj).includes(soDigitos(needle));
-        case 'cod': return ((r.cod || '').toString().replace(/\\D/g, '') === soDigitos(needle));
-        case 'filial': return normaliza(r.filial).includes(n);
-        default: return false;
-      }
-    }
-
-    function filtrar() {
-      const chave = tipoBusca.value;
-      const texto = valorBusca.value;
-      const uf = ufFiltro.value;
-
-      let lista = REGISTROS.filter(r => {
-        const okBusca = matchRegistro(r, chave, texto);
-        const okUF = uf ? (normaliza(r.estado || r.uf || '') === normaliza(uf)) : true;
-        return okBusca && okUF;
-      });
-
-      if (chave === 'cod' && texto) {
-        const c = soDigitos(texto);
-        const exatos = REGISTROS.filter(r =>
-          ((r.cod || '').toString().replace(/\D/g, '') === c) &&
-          (uf ? (normaliza(r.estado || r.uf || '') === normaliza(uf)) : true)
-        );
-        if (exatos.length) lista = [exatos[0]];
-      }
-
-      if (lista.length === 0) {
-        if (texto) {
-          dica.textContent = `Nenhuma loja encontrada para "${texto}"${uf ? ' em ' + uf.toUpperCase() : ''}.`;
-          dica.style.textAlign = 'center';
-        } else {
-          dica.textContent = '';
-          dica.style.textAlign = 'left';
-        }
+    if (lista.length === 0) {
+      if (texto) {
+        dica.textContent = `Nenhuma loja encontrada para "${texto}"${uf ? ' em ' + uf.toUpperCase() : ''}.`;
+        dica.style.textAlign = 'center';
       } else {
         dica.textContent = '';
         dica.style.textAlign = 'left';
       }
-
-      render(lista);
+    } else {
+      dica.textContent = '';
+      dica.style.textAlign = 'left';
     }
-    function render(lista) {
-      resultado.innerHTML = '';
-      if (lista.length) { qtd.textContent = lista.length + ' resultado(s)'; } else { qtd.textContent = ''; } for (const r of lista) {
-        const card = document.createElement('div');
-        card.className = 'card';
-        card.innerHTML = `
+
+    render(lista);
+  }
+
+  // ————————————————————————————————
+  // Cria um card de resultado
+  // ————————————————————————————————
+  function row(k, v) {
+    const vv = (v === undefined || v === null || v === '') ? '<span class="empty">—</span>' : escapeHtml(String(v));
+    return `<div class="row"><div class="k">${k}</div><div class="v">${vv}</div></div>`;
+  }
+
+  function escapeHtml(str) {
+    return str
+      .replaceAll('&', '&amp;')
+      .replaceAll('<', '&lt;')
+      .replaceAll('>', '&gt;')
+      .replaceAll('"', '&quot;')
+      .replaceAll("'", '&#39;');
+  }
+
+  function render(lista) {
+    resultado.innerHTML = '';
+    if (lista.length) {
+      qtd.textContent = lista.length + ' resultado(s)';
+    } else {
+      qtd.textContent = '';
+    }
+
+    for (const r of lista) {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
         <header>
-          <div><strong>${(r.filial || 'Filial')}</strong> <span class="count">• COD ${r.cod ?? '-'}</span></div>
-          <span class="tag">${(r.estado || r.uf || '-')}</span>
+          <div><strong>${r.filial || 'Filial'}</strong> <span class="count">• COD ${r.cod ?? '-'}</span></div>
+          <span class="tag">${r.estado || r.uf || '-'}</span>
         </header>
         <div class="body">
           ${row('CNPJ', r.cnpj)}
-          ${row('Razão Social', r.razaoSocial || r.razao_social || '-')}
-          ${row('Inscr. Estadual', r.inscricaoEstadual || r.inscrest || r.inscr_est || r.ie || '-')}
+          ${row('Razão Social', r.razaoSocial || '-')}
+          ${row('Inscr. Estadual', r.inscricaoEstadual || r.inscrest || '-')}
           ${row('Endereço', r.endereco || '-')}
           ${row('Bairro', r.bairro || '-')}
           ${row('Cidade', r.cidade || '-')}
-          
           ${row('CEP', r.cep || '-')}
-          ${row('Regional', ((r.regional || r.REGIONAL || '-').toString().toUpperCase()))}
-${row('UF', (r.estado || r.uf || '-'))}
-          ${row('CEP', r.cep || '-')}
-          ${row('Início Operação', r.inicioOperacao || r.inicioatividade || r.iniciovenda || r.inicio_venda || r.ativ || '-')}
+          ${row('Regional', (r.regional || '-').toString().toUpperCase())}
+          ${row('UF', r.estado || r.uf || '-')}
+          ${row('Tipo de Serviço', r.ativ || r.inicioOperacao || '-')}
+          ${row('Início de Operação', formatarDataBR(r.iniciovenda) || '-')}
         </div>
       `;
-        resultado.appendChild(card);
-      }
+      resultado.appendChild(card);
     }
+  }
 
-    function row(k, v) {
-      const vv = (v === undefined || v === null || v === '') ? '<span class="empty">—</span>' : escapeHtml(String(v));
-      return `<div class="row"><div class="k">${k}</div><div class="v">${vv}</div></div>`;
+  // ————————————————————————————————
+  // Autocomplete
+  // ————————————————————————————————
+  function populaSugestoesFilial() {
+    const dl = document.getElementById('sugestoesFilial');
+    if (!dl) return;
+    const uf = ufFiltro.value;
+    const nomes = Array.from(new Set(
+      REGISTROS
+        .filter(r => uf ? (normaliza(r.estado || r.uf || '') === normaliza(uf)) : true)
+        .map(r => (r.filial || '').toString().trim())
+        .filter(Boolean)
+    )).sort((a, b) => a.localeCompare(b, 'pt-BR'));
+    dl.innerHTML = '';
+    for (const nome of nomes) {
+      const opt = document.createElement('option');
+      opt.value = nome;
+      dl.appendChild(opt);
     }
+  }
 
-    function escapeHtml(str) {
-      return str
-        .replaceAll('&', '&amp;')
-        .replaceAll('<', '&lt;')
-        .replaceAll('>', '&gt;')
-        .replaceAll('"', '&quot;')
-        .replaceAll("'", '&#39;');
+  function toggleAutocompletePorTipo() {
+    if (tipoBusca.value === 'filial') {
+      valorBusca.setAttribute('list', 'sugestoesFilial');
+      populaSugestoesFilial();
+    } else {
+      valorBusca.removeAttribute('list');
     }
+  }
 
-    // --- Autocomplete de Filial (nome) com datalist no final do body ---
-    function populaSugestoesFilial() {
-      const dl = document.getElementById('sugestoesFilial');
-      if (!dl) return;
-      const uf = ufFiltro.value;
-      const nomes = Array.from(new Set(
-        REGISTROS
-          .filter(r => uf ? (normaliza(r.estado || r.uf || '') === normaliza(uf)) : true)
-          .map(r => (r.filial || '').toString().trim())
-          .filter(Boolean)
-      )).sort((a, b) => a.localeCompare(b, 'pt-BR'));
-      dl.innerHTML = '';
-      for (const nome of nomes) {
-        const opt = document.createElement('option');
-        opt.value = nome;
-        dl.appendChild(opt);
-      }
+  tipoBusca.addEventListener('change', toggleAutocompletePorTipo);
+  valorBusca.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      filtrar();
     }
+  });
+  btnBuscar.addEventListener('click', e => {
+    e.preventDefault();
+    filtrar();
+  });
 
+  valorBusca.addEventListener('change', () => {
+    if (tipoBusca.value === 'filial') filtrar();
+  });
+  valorBusca.addEventListener('input', () => {
+    if (tipoBusca.value === 'filial' && hasSuggestion(valorBusca.value)) filtrar();
+  });
+  ufFiltro.addEventListener('change', () => {
+    if (tipoBusca.value === 'filial') populaSugestoesFilial();
+    filtrar();
+  });
+
+  render(REGISTROS.slice(0, 4));
+  toggleAutocompletePorTipo();
+  valorBusca.focus();
     function toggleAutocompletePorTipo() {
       if (tipoBusca.value === 'filial') {
         valorBusca.setAttribute('list', 'sugestoesFilial');
@@ -618,9 +769,6 @@ ${row('UF', (r.estado || r.uf || '-'))}
     const resultadoEl= document.getElementById("resultado");
     const dataList   = document.getElementById("sugestoesFilial");
 
-    // Guarda último tipo p/ detectar troca a partir de 'filial'
-    let ultimoTipo = tipoBusca ? tipoBusca.value : "";
-
     function mostrarPadrao() {
       render(REGISTROS.slice(0, 4));
       if (dicaEl) dicaEl.textContent = "";
@@ -631,21 +779,29 @@ ${row('UF', (r.estado || r.uf || '-'))}
       if (tipoBusca)  tipoBusca.selectedIndex = 0;
       if (valorBusca) valorBusca.value = "";
       if (ufFiltro)   ufFiltro.selectedIndex = 0;
-      aplicarRestricoes(true); // recarrega restrições e placeholder
+      aplicarRestricoes(true);
       mostrarPadrao();
     }
 
     if (btnLimpar) btnLimpar.addEventListener("click", limparCampos);
     if (logo)      logo.addEventListener("click",  limparCampos);
 
-    // Handlers numéricos
+    // ——————————————————————————
+    // Handlers de entrada por tipo
+    // ——————————————————————————
     const handleCnpjInput = (e) => {
       const digits = e.target.value.replace(/\D/g, "").slice(0, 14);
       if (e.target.value !== digits) e.target.value = digits;
     };
+
     const handleCodigoInput = (e) => {
       const digits = e.target.value.replace(/\D/g, "").slice(0, 3);
       if (e.target.value !== digits) e.target.value = digits;
+    };
+
+    const handleFilialInput = (e) => {
+      const letras = e.target.value.replace(/[^a-zA-ZÀ-ÿ\s]/g, "");
+      if (e.target.value !== letras) e.target.value = letras;
     };
 
     // Ativa/desativa datalist conforme tipo
@@ -662,13 +818,14 @@ ${row('UF', (r.estado || r.uf || '-'))}
       }
     }
 
+    // Regras por tipo
     function aplicarRestricoes(resetPlaceholder = false) {
-      // Remove restrições/listeners antigos
       valorBusca.removeAttribute("maxLength");
       valorBusca.removeAttribute("inputmode");
       valorBusca.removeAttribute("pattern");
       valorBusca.removeEventListener("input", handleCnpjInput);
       valorBusca.removeEventListener("input", handleCodigoInput);
+      valorBusca.removeEventListener("input", handleFilialInput);
 
       // Placeholder dinâmico
       if (resetPlaceholder) {
@@ -681,39 +838,39 @@ ${row('UF', (r.estado || r.uf || '-'))}
         }
       }
 
-      // Regras por tipo
+      // Limitações e listeners
       if (tipoBusca.value === "cod") {
         valorBusca.maxLength = 3;
         valorBusca.inputMode = "numeric";
         valorBusca.pattern   = "\\d*";
         valorBusca.addEventListener("input", handleCodigoInput);
-      } else if (tipoBusca.value === "cnpj") {
+      } 
+      else if (tipoBusca.value === "cnpj") {
         valorBusca.maxLength = 14;
         valorBusca.inputMode = "numeric";
         valorBusca.pattern   = "\\d*";
         valorBusca.addEventListener("input", handleCnpjInput);
       }
+      else if (tipoBusca.value === "filial") {
+        valorBusca.removeAttribute("maxLength");
+        valorBusca.removeAttribute("inputmode");
+        valorBusca.removeAttribute("pattern");
+        valorBusca.addEventListener("input", handleFilialInput);
+      }
 
-      // Liga/desliga datalist
       gerenciarDatalist();
     }
 
-    // Intercepta mudança do tipo para limpar quando sair de 'filial'
+    // Sempre que o tipo mudar, limpa campo e reaplica regras
     tipoBusca.addEventListener("change", function () {
-      const novoTipo = tipoBusca.value;
-
-      // Se estava em 'filial' e mudou para 'cod' ou 'cnpj', limpa o campo e reseta lista/mensagens
-      if (ultimoTipo === "filial" && (novoTipo === "cod" || novoTipo === "cnpj")) {
-        valorBusca.value = "";
-        mostrarPadrao();
-      }
-      aplicarRestricoes(true);
-      ultimoTipo = novoTipo;
+      valorBusca.value = "";      // limpa o campo sempre
+      mostrarPadrao();            // volta para os cards iniciais
+      aplicarRestricoes(true);    // reconfigura o input
     });
 
     aplicarRestricoes(true);
 
-    // Validação extra no filtrar (mantém comportamento anterior)
+    // Validação extra no filtrar
     const _filtrarOriginal = filtrar;
     window.filtrar = function () {
       const chave  = tipoBusca.value;
@@ -734,14 +891,26 @@ ${row('UF', (r.estado || r.uf || '-'))}
         qtdEl.textContent = "";
         return;
       }
+
       dicaEl.textContent = "";
       _filtrarOriginal();
     };
   });
 </script>
-
-
-
+  <script>
+    if (window.location.protocol === 'file:') {
+      const aviso = document.createElement('div');
+      aviso.style.backgroundColor = '#ffdddd';
+      aviso.style.border = '1px solid #ff0000';
+      aviso.style.padding = '10px';
+      aviso.style.marginBottom = '10px';
+      aviso.innerHTML = `
+        <strong>Aviso:</strong> Este arquivo está sendo aberto diretamente do sistema de arquivos (protocolo <code>file://</code>). 
+        Algumas funcionalidades podem não funcionar corretamente devido a restrições de segurança dos navegadores. 
+        Recomenda-se hospedar este arquivo em um servidor web local ou remoto e acessá-lo via <code>http://</code> ou <code>https://</code>.
+      `;
+      document.body.insertBefore(aviso, document.body.firstChild);
+    }
   </script>
   </script>
   </script>
