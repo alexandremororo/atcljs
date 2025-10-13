@@ -449,6 +449,73 @@
   .card header { margin-bottom: 2px; }
 }
 
+
+/* ====== Patch de alinhamento em formato de tabela ====== */
+:root {
+  /* largura padrão da coluna de rótulos (desktop) */
+  --label-col: 120px;
+}
+
+/* Desktop/Tablet: trava a coluna de rótulos e alinha pelo topo */
+.row {
+  grid-template-columns: minmax(96px, var(--label-col)) 1fr; /* flexível mas consistente */
+  align-items: start;     /* evita desalinho vertical quando o valor quebra */
+}
+
+/* rótulos mais discretos e com altura natural */
+.row .k {
+  line-height: 1.2;
+}
+
+/* valores com quebra inteligente (evita micro-quebras antes de / e .) */
+.row .v {
+  line-height: 1.25;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+.row .v code,
+.row .v span {
+  word-break: normal;
+}
+
+/* Painel de busca: mantém alinhamento visual com cards */
+.panel .grid {
+  align-items: end;  /* alinha os campos pelos bottoms */
+  gap: 12px;
+}
+
+/* ====== Mobile refinado ====== */
+@media (max-width: 480px) {
+  :root { --label-col: 100px; } /* só para consistência se cair em 2 colunas em algum breakpoint */
+
+  /* Empilhado limpo (sua opção atual), com respiro consistente */
+  .row {
+    grid-template-columns: 1fr;
+    gap: 4px;
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+  .row:last-child { border-bottom: 0; }
+
+  .row .k {
+    font-size: 12px;
+    color: #a3aab5;
+    letter-spacing: .01em;
+  }
+  .row .v {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1.28;
+  }
+
+  /* Evita cortes feios em “75.315.333/0001-09” e endereços */
+  .row .v { word-break: normal; overflow-wrap: anywhere; }
+}
+
+/* Pequeno ajuste tipográfico para CNPJ e CEP ficarem mais “firmes” */
+.row .k:contains("CNPJ"), .row .k:contains("CEP") { letter-spacing: .02em; }
+
+
   </style>
 </head>
 
