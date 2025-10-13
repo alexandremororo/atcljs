@@ -402,6 +402,53 @@
       font-size: 15px;
       margin-bottom: 20px;
     }
+
+    /* ===== Refinamento do layout empilhado (mobile) ===== */
+@media (max-width: 480px) {
+  /* corpo do card com respiro consistente entre linhas */
+  .card .body { gap: 8px; }
+
+  /* cada linha empilhada, com divisória suave */
+  .row {
+    grid-template-columns: 1fr;     /* 1 coluna */
+    gap: 4px;
+    padding: 8px 0;                 /* respiro vertical equilibrado */
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+  .row:last-child { border-bottom: 0; }
+
+  /* rótulo mais leve e menor */
+  .row .k {
+    font-size: 12px;
+    color: #a3aab5;
+    letter-spacing: .01em;
+  }
+
+  /* valor mais legível, porém menos “gritante” */
+  .row .v {
+    font-weight: 700;               /* antes 800 em tudo—fica pesado */
+    font-size: 15px;                /* reduz sutilmente */
+    line-height: 1.28;
+    word-break: break-word;
+    overflow-wrap: anywhere;
+    hyphens: auto;
+  }
+
+  /* CNPJ e campos com barras: evitam quebra “antes da /” */
+  .row .v:where(:contains("/"), :contains(".")) {
+    word-break: normal;
+  }
+
+  /* título do card um pouco menor para harmonizar com o selo */
+  .card header > div strong {
+    font-size: 13.5px;
+    line-height: 1.25;
+  }
+
+  /* separador entre header e conteúdo com margem um pouco maior */
+  .card header { margin-bottom: 2px; }
+}
+
   </style>
 </head>
 
