@@ -572,7 +572,27 @@
   }
 }
 
+/* ===== Correção: evitar quebra vertical em linhas longas ===== */
+@media (max-width: 480px) {
+  .row {
+    grid-template-columns: minmax(110px, 40%) 1fr !important; /* rótulo ganha mais espaço */
+    align-items: baseline !important;                         /* alinha rótulo e valor pela base */
+  }
 
+  /* Rótulos longos, como "Início de Operação", podem quebrar só se for necessário */
+  .row .k {
+    white-space: normal !important;      /* permite 2 linhas se precisar */
+    word-break: keep-all !important;     /* evita quebra no meio das palavras */
+    line-height: 1.3 !important;
+  }
+
+  /* Valor fica na mesma linha se couber */
+  .row .v {
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;  /* adiciona "..." se passar do limite */
+  }
+}
   </style>
 </head>
 
