@@ -593,6 +593,24 @@
     text-overflow: ellipsis !important;  /* adiciona "..." se passar do limite */
   }
 }
+
+/* ===== Mobile — suavizar tipografia dos valores ===== */
+@media (max-width: 480px) {
+  /* Rótulo (ex: "Razão Social:") continua discreto */
+  .row .k {
+    font-weight: 500 !important;      /* antes normal (400) ou leve */
+    color: #a6adb7 !important;        /* tom ligeiramente mais claro */
+  }
+
+  /* Valor (ex: "ATACADÃO S.A.") menos pesado, mais respirado */
+  .row .v {
+    font-weight: 600 !important;      /* era 700/800 — suaviza sem perder contraste */
+    color: #e4e6eb !important;        /* tom de texto principal */
+    letter-spacing: 0.01em !important;
+    line-height: 1.35 !important;     /* um pouco mais solto visualmente */
+  }
+}
+
   </style>
 </head>
 
