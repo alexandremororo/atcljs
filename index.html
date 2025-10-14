@@ -611,6 +611,22 @@
   }
 }
 
+/* ===== Mobile: números longos (CNPJ/CEP/IE) em 1 linha rolável ===== */
+@media (max-width: 480px) {
+  .row .v.-num {
+    white-space: nowrap;          /* 1 linha */
+    overflow-x: auto;             /* rolagem horizontal */
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;        /* Firefox: oculta barra */
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 13px;              /* ligeiramente menor p/ caber mais */
+    font-weight: 600;             /* menos denso */
+    line-height: 1.3;
+  }
+  .row .v.-num::-webkit-scrollbar { display: none; } /* Chrome/Safari: oculta barra */
+}
+
   </style>
 </head>
 
@@ -783,10 +799,18 @@
   // ————————————————————————————————
   // Cria um card de resultado
   // ————————————————————————————————
-  function row(k, v) {
-    const vv = (v === undefined || v === null || v === '') ? '<span class="empty">—</span>' : escapeHtml(String(v));
-    return `<div class="row"><div class="k">${k}</div><div class="v">${vv}</div></div>`;
-  }
+ function row(k, v) {
+  const vv = (v === undefined || v === null || v === '')
+    ? '<span class="empty">—</span>'
+    : escapeHtml(String(v));
+
+  const key = String(k).toLowerCase();
+  const isNum = /(cnpj|cep|inscr|inscrição|inscr\. estadual|ie)/.test(key);
+  const cls = 'v' + (isNum ? ' -num' : '');
+
+  return `<div class="row"><div class="k">${k}</div><div class="${cls}">${vv}</div></div>`;
+}
+
 
   function escapeHtml(str) {
     return str
