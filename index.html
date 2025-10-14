@@ -515,29 +515,63 @@
 /* Pequeno ajuste tipográfico para CNPJ e CEP ficarem mais “firmes” */
 .row .k:contains("CNPJ"), .row .k:contains("CEP") { letter-spacing: .02em; }
 
-/* === MOBILE (até 480px) — manter formato de tabela === */
+/* ===== MOBILE (≤480px) — bloco único e definitivo ===== */
 @media (max-width: 480px) {
+  /* Centraliza tudo e alinha painel e cards com a mesma largura */
+  .container {
+    margin: 0 auto;
+    padding: 0 12px;
+  }
+  .panel,
+  .card {
+    width: 100% !important;
+    max-width: 420px;      /* ajuste fino da largura útil no mobile */
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* Mantém os resultados em coluna, ocupando a largura útil */
+  .results {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: stretch;
+  }
+
+  /* TABELA: rótulo + valor (duas colunas) */
   .row {
-    grid-template-columns: 100px 1fr !important; /* duas colunas, rótulo + valor */
-    gap: 6px !important;
-    align-items: start !important;               /* alinha topo a topo */
+    display: grid;
+    grid-template-columns: 100px 1fr;  /* rótulo fixo + valor flexível */
+    gap: 6px;
+    align-items: start;                 /* evita “degrau” quando o valor quebra */
   }
-
   .row .k {
-    font-size: 12px !important;
-    color: #a3aab5 !important;
-    white-space: nowrap !important;              /* mantém rótulo em 1 linha */
-    text-align: left !important;
+    font-size: 12px;
+    color: #a3aab5;
+    white-space: nowrap;                /* rótulo não quebra */
+    line-height: 1.2;
+  }
+  .row .v {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.3;
+    word-break: break-word;
+    overflow-wrap: anywhere;            /* valores longos quebram bem */
   }
 
-  .row .v {
-    font-size: 14px !important;
-    font-weight: 700 !important;
-    line-height: 1.3 !important;
-    word-break: break-word !important;
-    overflow-wrap: anywhere !important;
+  /* Header: só um respiro, sem mudar comportamento do desktop */
+  .card header { gap: 8px; }
+  .card header > div strong { font-size: 13.5px; line-height: 1.25; }
+
+  /* Selo: um pouco menor para caber melhor no mobile */
+  .card header .tag {
+    height: 22px;
+    min-width: 30px;
+    font-size: 10px;
+    padding: 0 8px;
   }
 }
+
 
   </style>
 </head>
