@@ -626,7 +626,10 @@
   }
   .row .v.-num::-webkit-scrollbar { display: none; } /* Chrome/Safari: oculta barra */
 }
-
+@media (max-width: 480px) {
+  .row .v::-webkit-scrollbar { display: none; }
+  .row .v { scrollbar-width: none; }
+}
   </style>
 </head>
 
@@ -969,6 +972,20 @@
     const qtdEl      = document.getElementById("qtd");
     const resultadoEl= document.getElementById("resultado");
     const dataList   = document.getElementById("sugestoesFilial");
+
+    // 👇 ADIÇÃO: clique/toque em valores longos rola para o final (CNPJ/CEP/IE etc.)
+    resultadoEl.addEventListener("click", (e) => {
+      const el = e.target.closest(".v");           // só reage em células de valor
+      if (!el) return;
+      // habilita rolagem horizontal on-demand
+      el.style.whiteSpace = "nowrap";
+      el.style.overflowX = "auto";
+      el.style.webkitOverflowScrolling = "touch";
+      // se for maior que a área visível, rola até o fim
+      if (el.scrollWidth > el.clientWidth) {
+        el.scrollLeft = el.scrollWidth;
+      }
+    });
 
     function mostrarPadrao() {
       render(REGISTROS.slice(0, 4));
