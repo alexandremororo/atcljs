@@ -974,18 +974,27 @@
     const dataList   = document.getElementById("sugestoesFilial");
 
     // 👇 ADIÇÃO: clique/toque em valores longos rola para o final (CNPJ/CEP/IE etc.)
-    resultadoEl.addEventListener("click", (e) => {
-      const el = e.target.closest(".v");           // só reage em células de valor
-      if (!el) return;
-      // habilita rolagem horizontal on-demand
-      el.style.whiteSpace = "nowrap";
-      el.style.overflowX = "auto";
-      el.style.webkitOverflowScrolling = "touch";
-      // se for maior que a área visível, rola até o fim
-      if (el.scrollWidth > el.clientWidth) {
-        el.scrollLeft = el.scrollWidth;
-      }
-    });
+resultadoEl.addEventListener("click", (e) => {
+  const el = e.target.closest(".v");
+  if (!el) return;
+
+  // força (com !important) remover reticências e permitir scroll horizontal
+  el.style.setProperty('white-space', 'nowrap', 'important');
+  el.style.setProperty('overflow-x', 'auto', 'important');
+  el.style.setProperty('overflow-y', 'hidden', 'important');
+  el.style.setProperty('text-overflow', 'clip', 'important');   // <- tira o "…"
+  el.style.setProperty('word-break', 'normal', 'important');
+  el.style.setProperty('-webkit-overflow-scrolling', 'touch');
+
+  // esconde a barrinha de scroll (opcional)
+  el.style.scrollbarWidth = 'none';
+  el.style.msOverflowStyle = 'none';
+
+  // aplica depois do reflow para garantir que as mudanças surtam efeito
+  requestAnimationFrame(() => {
+    el.scrollLeft = el.scrollWidth; // vai direto para o fim (últimos dígitos)
+  });
+});
 
     function mostrarPadrao() {
       render(REGISTROS.slice(0, 4));
