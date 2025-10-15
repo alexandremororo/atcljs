@@ -11,7 +11,7 @@
     "cep": 2170901,
     "seq": 1.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 110117560114,
     "ativ": "CD",
     "iniciovenda": "1985-04-12 00:00:00"
@@ -28,7 +28,7 @@
     "cep": 79016000,
     "seq": 2.0,
     "diviso": "SUL",
-    "regional": "DR-MS",
+    "regional": "MS",
     "inscrest": "28.315.909-0",
     "ativ": "AT",
     "iniciovenda": "1993-10-23 00:00:00"
@@ -45,7 +45,7 @@
     "cep": 79013545,
     "seq": 3.0,
     "diviso": "SUL",
-    "regional": "DR-MS",
+    "regional": "MS",
     "inscrest": "28.071.448-3",
     "ativ": "AS",
     "iniciovenda": "1993-11-04 00:00:00"
@@ -62,7 +62,7 @@
     "cep": 15014050,
     "seq": 4.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 647385980112,
     "ativ": "AS",
     "iniciovenda": "2001-06-07 00:00:00"
@@ -79,7 +79,7 @@
     "cep": 78150,
     "seq": 5.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 130782394,
     "ativ": "AT",
     "iniciovenda": "1975-05-07 00:00:00"
@@ -96,7 +96,7 @@
     "cep": 2938000,
     "seq": 6.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 116225763113,
     "ativ": "AS",
     "iniciovenda": "2001-12-06 00:00:00"
@@ -113,7 +113,7 @@
     "cep": 79840630,
     "seq": 7.0,
     "diviso": "SUL",
-    "regional": "DR-MS",
+    "regional": "MS",
     "inscrest": "28.320.600-4",
     "ativ": "AS",
     "iniciovenda": "2002-03-21 00:00:00"
@@ -130,7 +130,7 @@
     "cep": 72150100,
     "seq": 8.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 743302300200,
     "ativ": "AT",
     "iniciovenda": "2009-07-06 00:00:00"
@@ -147,7 +147,7 @@
     "cep": 87045110,
     "seq": 9.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": "70103180-62",
     "ativ": "AT",
     "iniciovenda": "1962-04-12 00:00:00"
@@ -164,7 +164,7 @@
     "cep": 2170901,
     "seq": 10.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 124792060110,
     "ativ": "AS",
     "iniciovenda": "2007-04-19 00:00:00"
@@ -181,7 +181,7 @@
     "cep": 2170901,
     "seq": 11.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 110117560114,
     "ativ": "AT",
     "iniciovenda": "1985-04-12 00:00:00"
@@ -198,7 +198,7 @@
     "cep": 70000000,
     "seq": 12.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": "07.433.023/003-82",
     "ativ": "AS",
     "iniciovenda": "2002-07-04 00:00:00"
@@ -215,7 +215,7 @@
     "cep": 6612260,
     "seq": 13.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 398230466111,
     "ativ": "AT",
     "iniciovenda": "2023-10-02 00:00:00"
@@ -232,7 +232,7 @@
     "cep": 40310010,
     "seq": 14.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 57746966,
     "ativ": "AS",
     "iniciovenda": "2002-10-03 00:00:00"
@@ -249,7 +249,7 @@
     "cep": 11702200,
     "seq": 15.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 558175369118,
     "ativ": "AS",
     "iniciovenda": "2002-12-05 00:00:00"
@@ -266,7 +266,7 @@
     "cep": 7178580,
     "seq": 16.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 796379448117,
     "ativ": "AS",
     "iniciovenda": "2017-11-23 00:00:00"
@@ -283,7 +283,7 @@
     "cep": 87045110,
     "seq": 17.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": "70103180-62",
     "ativ": "AT",
     "iniciovenda": "2009-01-02 00:00:00"
@@ -300,7 +300,7 @@
     "cep": 4905000,
     "seq": 18.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 109579838115,
     "ativ": "AS",
     "iniciovenda": "1993-12-17 00:00:00"
@@ -317,7 +317,7 @@
     "cep": 9015310,
     "seq": 19.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 626176750118,
     "ativ": "AS",
     "iniciovenda": "1986-09-15 00:00:00"
@@ -334,7 +334,7 @@
     "cep": 6768000,
     "seq": 20.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 675501810115,
     "ativ": "AS",
     "iniciovenda": "2022-06-30 00:00:00"
@@ -351,7 +351,7 @@
     "cep": 13080395,
     "seq": 21.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 244939926117,
     "ativ": "AS",
     "iniciovenda": "2004-03-04 00:00:00"
@@ -368,7 +368,7 @@
     "cep": 79016000,
     "seq": 22.0,
     "diviso": "SUL",
-    "regional": "DR-MS",
+    "regional": "MS",
     "inscrest": "28.071.448-3",
     "ativ": "AT",
     "iniciovenda": "1993-10-23 00:00:00"
@@ -385,7 +385,7 @@
     "cep": 69084005,
     "seq": 23.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": "05.320.619-3",
     "ativ": "AT",
     "iniciovenda": "2013-08-29 00:00:00"
@@ -402,7 +402,7 @@
     "cep": 72150100,
     "seq": 24.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": "07.433.023/002-00",
     "ativ": "AT",
     "iniciovenda": "NaT"
@@ -419,7 +419,7 @@
     "cep": 78020300,
     "seq": 25.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": "13.042.252-5",
     "ativ": "AS",
     "iniciovenda": "1986-09-25 00:00:00"
@@ -436,7 +436,7 @@
     "cep": 54330902,
     "seq": 26.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "0329181-27",
     "ativ": "AS",
     "iniciovenda": "2009-02-04 00:00:00"
@@ -453,7 +453,7 @@
     "cep": 38401119,
     "seq": 27.0,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 1865448230043,
     "ativ": "AS",
     "iniciovenda": "2010-03-25 00:00:00"
@@ -470,7 +470,7 @@
     "cep": 79060010,
     "seq": 28.0,
     "diviso": "SUL",
-    "regional": "DR-MS",
+    "regional": "MS",
     "inscrest": "28247653-9",
     "ativ": "AS",
     "iniciovenda": "1999-01-13 00:00:00"
@@ -487,7 +487,7 @@
     "cep": 13485342,
     "seq": 29.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 417249311119,
     "ativ": "AS",
     "iniciovenda": "2004-06-17 00:00:00"
@@ -504,7 +504,7 @@
     "cep": 9840000,
     "seq": 30.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 110117560114,
     "ativ": "AT",
     "iniciovenda": "NaT"
@@ -521,7 +521,7 @@
     "cep": 72150000,
     "seq": 31.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 743302301273,
     "ativ": "CD",
     "iniciovenda": "NaT"
@@ -538,7 +538,7 @@
     "cep": 8022000,
     "seq": 32.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 112167183117,
     "ativ": "AS",
     "iniciovenda": "1988-09-19 00:00:00"
@@ -555,7 +555,7 @@
     "cep": 59104095,
     "seq": 33.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "20.204.068-2",
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -572,7 +572,7 @@
     "cep": 77024546,
     "seq": 34.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 295417790,
     "ativ": "AT",
     "iniciovenda": "NaT"
@@ -589,7 +589,7 @@
     "cep": 74593850,
     "seq": 35.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 200747800,
     "ativ": "AT",
     "iniciovenda": "NaT"
@@ -606,7 +606,7 @@
     "cep": 86050155,
     "seq": 36.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": "601.200.66-06",
     "ativ": "AS",
     "iniciovenda": "1989-08-11 00:00:00"
@@ -623,7 +623,7 @@
     "cep": 81350200,
     "seq": 37.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": "90194641-88",
     "ativ": "AT",
     "iniciovenda": "NaT"
@@ -640,7 +640,7 @@
     "cep": 87013090,
     "seq": 38.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": "701.22338-11",
     "ativ": "AS",
     "iniciovenda": "1995-11-05 00:00:00"
@@ -657,7 +657,7 @@
     "cep": 6327290,
     "seq": 39.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 255090420111,
     "ativ": "AS",
     "iniciovenda": "1995-12-09 00:00:00"
@@ -674,7 +674,7 @@
     "cep": 78700220,
     "seq": 40.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": "13.188.683-5",
     "ativ": "AS",
     "iniciovenda": "1999-09-02 00:00:00"
@@ -691,7 +691,7 @@
     "cep": 78085000,
     "seq": 41.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": "13.190469-8",
     "ativ": "AS",
     "iniciovenda": "1999-11-18 00:00:00"
@@ -708,7 +708,7 @@
     "cep": 11085202,
     "seq": 42.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 633405830116,
     "ativ": "AS",
     "iniciovenda": "2000-07-28 00:00:00"
@@ -725,7 +725,7 @@
     "cep": 50800010,
     "seq": 43.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "0270329-73",
     "ativ": "AS",
     "iniciovenda": "2006-10-19 00:00:00"
@@ -742,7 +742,7 @@
     "cep": 8260000,
     "seq": 44.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 115972858118,
     "ativ": "AS",
     "iniciovenda": "2000-11-16 00:00:00"
@@ -759,7 +759,7 @@
     "cep": 7140230,
     "seq": 45.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 336706796110,
     "ativ": "AS",
     "iniciovenda": "2003-05-15 00:00:00"
@@ -776,7 +776,7 @@
     "cep": 53010210,
     "seq": 46.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "0307990-23",
     "ativ": "AS",
     "iniciovenda": "2004-03-25 00:00:00"
@@ -793,7 +793,7 @@
     "cep": 59066180,
     "seq": 47.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "20.096.422-4",
     "ativ": "AS",
     "iniciovenda": "2004-07-08 00:00:00"
@@ -810,7 +810,7 @@
     "cep": 42700000,
     "seq": 48.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 64111216,
     "ativ": "AS",
     "iniciovenda": "2004-09-30 00:00:00"
@@ -827,7 +827,7 @@
     "cep": 11435000,
     "seq": 49.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 335202465110,
     "ativ": "AS",
     "iniciovenda": "2004-12-16 00:00:00"
@@ -844,7 +844,7 @@
     "cep": 8685000,
     "seq": 50.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 672173040119,
     "ativ": "AS",
     "iniciovenda": "2005-04-28 00:00:00"
@@ -861,7 +861,7 @@
     "cep": 54330902,
     "seq": 51.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "0329181-27",
     "ativ": "AS",
     "iniciovenda": "2005-11-03 00:00:00"
@@ -878,7 +878,7 @@
     "cep": 55030280,
     "seq": 52.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "0334975-67",
     "ativ": "AS",
     "iniciovenda": "2006-05-11 00:00:00"
@@ -895,7 +895,7 @@
     "cep": 4864002,
     "seq": 53.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 149267562113,
     "ativ": "AS",
     "iniciovenda": "2006-07-06 00:00:00"
@@ -912,7 +912,7 @@
     "cep": 41342846,
     "seq": 54.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 69287831,
     "ativ": "AS",
     "iniciovenda": "2006-09-08 00:00:00"
@@ -929,7 +929,7 @@
     "cep": 6703000,
     "seq": 55.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 278157726114,
     "ativ": "AS",
     "iniciovenda": "2006-11-30 00:00:00"
@@ -946,7 +946,7 @@
     "cep": 2170000,
     "seq": 56.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 149570901111,
     "ativ": "AS",
     "iniciovenda": "2007-04-19 00:00:00"
@@ -963,7 +963,7 @@
     "cep": 70770100,
     "seq": 57.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 743302300463,
     "ativ": "AS",
     "iniciovenda": "2008-01-17 00:00:00"
@@ -980,7 +980,7 @@
     "cep": 59104095,
     "seq": 58.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "20.204.068-2",
     "ativ": "AS",
     "iniciovenda": "2008-02-01 00:00:00"
@@ -997,7 +997,7 @@
     "cep": 21210000,
     "seq": 59.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 78345438,
     "ativ": "AS",
     "iniciovenda": "2007-10-18 00:00:00"
@@ -1014,7 +1014,7 @@
     "cep": 74063010,
     "seq": 60.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": "10.416945-1",
     "ativ": "AS",
     "iniciovenda": "2007-11-29 00:00:00"
@@ -1031,7 +1031,7 @@
     "cep": 21660000,
     "seq": 61.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 78440821,
     "ativ": "AS",
     "iniciovenda": "2008-05-15 00:00:00"
@@ -1048,7 +1048,7 @@
     "cep": 44023010,
     "seq": 62.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 76229052,
     "ativ": "AS",
     "iniciovenda": "2008-03-06 00:00:00"
@@ -1065,7 +1065,7 @@
     "cep": 26220110,
     "seq": 63.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 78455446,
     "ativ": "AS",
     "iniciovenda": "2008-04-17 00:00:00"
@@ -1082,7 +1082,7 @@
     "cep": 49082110,
     "seq": 64.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": "27.121.904-1",
     "ativ": "AS",
     "iniciovenda": "2008-09-18 00:00:00"
@@ -1099,7 +1099,7 @@
     "cep": 59600000,
     "seq": 65.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "20.212.221-2",
     "ativ": "AS",
     "iniciovenda": "2008-07-17 00:00:00"
@@ -1116,7 +1116,7 @@
     "cep": 78550000,
     "seq": 66.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 133560279,
     "ativ": "AS",
     "iniciovenda": "2008-10-23 00:00:00"
@@ -1133,7 +1133,7 @@
     "cep": 14406005,
     "seq": 67.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 310299907119,
     "ativ": "AS",
     "iniciovenda": "2014-01-16 00:00:00"
@@ -1150,7 +1150,7 @@
     "cep": 76812317,
     "seq": 68.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 1727486,
     "ativ": "AS",
     "iniciovenda": "2010-08-24 00:00:00"
@@ -1167,7 +1167,7 @@
     "cep": 48900000,
     "seq": 69.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 77552288,
     "ativ": "AS",
     "iniciovenda": "2008-11-27 00:00:00"
@@ -1184,7 +1184,7 @@
     "cep": 58075427,
     "seq": 70.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "16.159.568-5",
     "ativ": "AS",
     "iniciovenda": "2009-08-27 00:00:00"
@@ -1201,7 +1201,7 @@
     "cep": 93212220,
     "seq": 71.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": "132/0129649",
     "ativ": "AS",
     "iniciovenda": "2008-09-11 00:00:00"
@@ -1218,7 +1218,7 @@
     "cep": 93700000,
     "seq": 72.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": "019/0103698",
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -1235,7 +1235,7 @@
     "cep": 72872330,
     "seq": 73.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": "10.433284-0",
     "ativ": "AS",
     "iniciovenda": "2008-11-18 00:00:00"
@@ -1252,7 +1252,7 @@
     "cep": 29110000,
     "seq": 74.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": "082.592.33-0",
     "ativ": "AS",
     "iniciovenda": "2009-03-05 00:00:00"
@@ -1269,7 +1269,7 @@
     "cep": 44023010,
     "seq": 75.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 78362404,
     "ativ": "AS",
     "iniciovenda": "2008-11-21 00:00:00"
@@ -1286,7 +1286,7 @@
     "cep": 60741215,
     "seq": 76.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": "06.370997-0",
     "ativ": "AS",
     "iniciovenda": "2010-03-09 00:00:00"
@@ -1303,7 +1303,7 @@
     "cep": 78088505,
     "seq": 77.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": "13.361.903-6",
     "ativ": "AT",
     "iniciovenda": "1975-05-07 00:00:00"
@@ -1320,7 +1320,7 @@
     "cep": 63024015,
     "seq": 78.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": "06.371463-9",
     "ativ": "AS",
     "iniciovenda": "2009-03-12 00:00:00"
@@ -1337,7 +1337,7 @@
     "cep": 45045970,
     "seq": 79.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 78417719,
     "ativ": "AS",
     "iniciovenda": "2009-01-15 00:00:00"
@@ -1354,7 +1354,7 @@
     "cep": 12335010,
     "seq": 80.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 392180411114,
     "ativ": "AS",
     "iniciovenda": "2016-12-13 00:00:00"
@@ -1371,7 +1371,7 @@
     "cep": 13411068,
     "seq": 81.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 535449807118,
     "ativ": "AS",
     "iniciovenda": "2009-07-23 00:00:00"
@@ -1388,7 +1388,7 @@
     "cep": 9891001,
     "seq": 82.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 635583026111,
     "ativ": "AS",
     "iniciovenda": "2009-01-29 00:00:00"
@@ -1405,7 +1405,7 @@
     "cep": 53625815,
     "seq": 83.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "0372020-90",
     "ativ": "AT",
     "iniciovenda": "2009-01-12 00:00:00"
@@ -1422,7 +1422,7 @@
     "cep": 91110581,
     "seq": 84.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 963437844,
     "ativ": "AS",
     "iniciovenda": "2012-04-26 00:00:00"
@@ -1439,7 +1439,7 @@
     "cep": 58402020,
     "seq": 85.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "16.159.613-4",
     "ativ": "AS",
     "iniciovenda": "2009-07-02 00:00:00"
@@ -1456,7 +1456,7 @@
     "cep": 77024546,
     "seq": 86.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": "29.412.510-8",
     "ativ": "AS",
     "iniciovenda": "2009-07-16 00:00:00"
@@ -1473,7 +1473,7 @@
     "cep": 12220000,
     "seq": 87.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 645549052111,
     "ativ": "AS",
     "iniciovenda": "2009-05-21 00:00:00"
@@ -1490,7 +1490,7 @@
     "cep": 14094000,
     "seq": 88.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 582803384113,
     "ativ": "AS",
     "iniciovenda": "2009-12-10 00:00:00"
@@ -1507,7 +1507,7 @@
     "cep": 45825580,
     "seq": 89.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 82440840,
     "ativ": "AS",
     "iniciovenda": "2009-08-06 00:00:00"
@@ -1524,7 +1524,7 @@
     "cep": 45045970,
     "seq": 90.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 82516251,
     "ativ": "AT",
     "iniciovenda": "2014-02-10 00:00:00"
@@ -1541,7 +1541,7 @@
     "cep": 42700000,
     "seq": 91.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 82522083,
     "ativ": "AS",
     "iniciovenda": "2009-07-25 00:00:00"
@@ -1558,7 +1558,7 @@
     "cep": 14094000,
     "seq": 92.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 582807237111,
     "ativ": "AT",
     "iniciovenda": "2010-01-25 00:00:00"
@@ -1575,7 +1575,7 @@
     "cep": 9350000,
     "seq": 93.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 442233293111,
     "ativ": "AS",
     "iniciovenda": "2010-09-23 00:00:00"
@@ -1592,7 +1592,7 @@
     "cep": 57081285,
     "seq": 94.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 242171540,
     "ativ": "AS",
     "iniciovenda": "2010-08-17 00:00:00"
@@ -1609,7 +1609,7 @@
     "cep": 47803550,
     "seq": 95.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 83053263,
     "ativ": "AS",
     "iniciovenda": "2010-02-11 00:00:00"
@@ -1626,7 +1626,7 @@
     "cep": 77023472,
     "seq": 96.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": "29.417.563-6",
     "ativ": "AT",
     "iniciovenda": "2012-03-01 00:00:00"
@@ -1643,7 +1643,7 @@
     "cep": 28073506,
     "seq": 97.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 78882972,
     "ativ": "AS",
     "iniciovenda": "2011-11-17 00:00:00"
@@ -1660,7 +1660,7 @@
     "cep": 29110340,
     "seq": 98.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 82669821,
     "ativ": "AT",
     "iniciovenda": "2011-07-01 00:00:00"
@@ -1677,7 +1677,7 @@
     "cep": 12944006,
     "seq": 99.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 190216505111,
     "ativ": "AS",
     "iniciovenda": "2016-06-16 00:00:00"
@@ -1694,7 +1694,7 @@
     "cep": 13060646,
     "seq": 100.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 795021275118,
     "ativ": "AS",
     "iniciovenda": "2010-05-27 00:00:00"
@@ -1711,7 +1711,7 @@
     "cep": 63041140,
     "seq": 101.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": "06.391.429-8",
     "ativ": "AT",
     "iniciovenda": "2014-05-07 00:00:00"
@@ -1728,7 +1728,7 @@
     "cep": 94045340,
     "seq": 102.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 570280451,
     "ativ": "AS",
     "iniciovenda": "2010-05-13 00:00:00"
@@ -1745,7 +1745,7 @@
     "cep": 74063010,
     "seq": 103.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": "10475952-6",
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -1762,7 +1762,7 @@
     "cep": 49081050,
     "seq": 104.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 271271566,
     "ativ": "AT",
     "iniciovenda": "2013-07-30 00:00:00"
@@ -1779,7 +1779,7 @@
     "cep": 60874401,
     "seq": 105.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 63911680,
     "ativ": "AT",
     "iniciovenda": "2014-05-06 00:00:00"
@@ -1796,7 +1796,7 @@
     "cep": 2170901,
     "seq": 106.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 140286290110,
     "ativ": "AT",
     "iniciovenda": "1985-04-12 00:00:00"
@@ -1813,7 +1813,7 @@
     "cep": 65060645,
     "seq": 107.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": "12326351-4",
     "ativ": "AS",
     "iniciovenda": "2010-07-06 00:00:00"
@@ -1830,7 +1830,7 @@
     "cep": 58082260,
     "seq": 108.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": "16.170.526-0",
     "ativ": "AT",
     "iniciovenda": "2013-02-26 00:00:00"
@@ -1847,7 +1847,7 @@
     "cep": 45662000,
     "seq": 109.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 86148553,
     "ativ": "AS",
     "iniciovenda": "2010-07-08 00:00:00"
@@ -1864,7 +1864,7 @@
     "cep": 45662000,
     "seq": 110.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 86148661,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -1881,7 +1881,7 @@
     "cep": 75906605,
     "seq": 111.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": "10.469.880-2",
     "ativ": "AS",
     "iniciovenda": "2010-08-10 00:00:00"
@@ -1898,7 +1898,7 @@
     "cep": 69084005,
     "seq": 112.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": "05.320.698-3",
     "ativ": "AS",
     "iniciovenda": "2013-09-12 00:00:00"
@@ -1915,7 +1915,7 @@
     "cep": 69084005,
     "seq": 113.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": "05.320.619-3",
     "ativ": "AT",
     "iniciovenda": "2013-05-16 00:00:00"
@@ -1932,7 +1932,7 @@
     "cep": 8071000,
     "seq": 114.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 147288127114,
     "ativ": "AS",
     "iniciovenda": "2010-11-30 00:00:00"
@@ -1949,7 +1949,7 @@
     "cep": 97105030,
     "seq": 115.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": "109/0362886",
     "ativ": "AS",
     "iniciovenda": "2012-07-05 00:00:00"
@@ -1966,7 +1966,7 @@
     "cep": 96040000,
     "seq": 116.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 930429443,
     "ativ": "AS",
     "iniciovenda": "2011-11-11 00:00:00"
@@ -1983,7 +1983,7 @@
     "cep": 96203000,
     "seq": 117.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 1000282713,
     "ativ": "AS",
     "iniciovenda": "2011-04-14 00:00:00"
@@ -2000,7 +2000,7 @@
     "cep": 44021215,
     "seq": 118.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 89458114,
     "ativ": "AT",
     "iniciovenda": "2011-04-29 00:00:00"
@@ -2017,7 +2017,7 @@
     "cep": 88332510,
     "seq": 119.0,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 256211060,
     "ativ": "AT",
     "iniciovenda": "2010-11-29 00:00:00"
@@ -2034,7 +2034,7 @@
     "cep": 64006220,
     "seq": 120.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 194795861,
     "ativ": "AS",
     "iniciovenda": "2011-02-24 00:00:00"
@@ -2051,7 +2051,7 @@
     "cep": 65913410,
     "seq": 121.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": "12350184-9",
     "ativ": "AS",
     "iniciovenda": "2011-06-09 00:00:00"
@@ -2068,7 +2068,7 @@
     "cep": 78055799,
     "seq": 122.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 134123115,
     "ativ": "AS",
     "iniciovenda": "2011-07-12 00:00:00"
@@ -2085,7 +2085,7 @@
     "cep": 29110340,
     "seq": 123.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": "ISENTO",
     "ativ": "AT",
     "iniciovenda": "NaT"
@@ -2102,7 +2102,7 @@
     "cep": 27971130,
     "seq": 124.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 79381659,
     "ativ": "AS",
     "iniciovenda": "2012-01-25 00:00:00"
@@ -2119,7 +2119,7 @@
     "cep": 74935530,
     "seq": 125.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": "10.503.507-6",
     "ativ": "AS",
     "iniciovenda": "2011-09-29 00:00:00"
@@ -2136,7 +2136,7 @@
     "cep": 93320010,
     "seq": 126.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 860452115,
     "ativ": "AS",
     "iniciovenda": "2011-10-27 00:00:00"
@@ -2153,7 +2153,7 @@
     "cep": 4209000,
     "seq": 127.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 146208635111,
     "ativ": "AS",
     "iniciovenda": "2013-12-05 00:00:00"
@@ -2170,7 +2170,7 @@
     "cep": 13033050,
     "seq": 128.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 795169714112,
     "ativ": "AS",
     "iniciovenda": "2011-12-28 00:00:00"
@@ -2187,7 +2187,7 @@
     "cep": 84052000,
     "seq": 129.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": "90566666-53",
     "ativ": "AS",
     "iniciovenda": "2011-10-13 00:00:00"
@@ -2204,7 +2204,7 @@
     "cep": 23570030,
     "seq": 130.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 79469033,
     "ativ": "AS",
     "iniciovenda": "2014-10-16 00:00:00"
@@ -2221,7 +2221,7 @@
     "cep": 79101000,
     "seq": 131.0,
     "diviso": "SUL",
-    "regional": "DR-MS",
+    "regional": "MS",
     "inscrest": 283694700,
     "ativ": "AS",
     "iniciovenda": "2012-03-15 00:00:00"
@@ -2238,7 +2238,7 @@
     "cep": 67030007,
     "seq": 132.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 153463546,
     "ativ": "AS",
     "iniciovenda": "2014-12-10 00:00:00"
@@ -2255,7 +2255,7 @@
     "cep": 17033260,
     "seq": 133.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 209297425118,
     "ativ": "AS",
     "iniciovenda": "2012-05-03 00:00:00"
@@ -2272,7 +2272,7 @@
     "cep": 17507650,
     "seq": 134.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 438160365118,
     "ativ": "AS",
     "iniciovenda": "2012-09-27 00:00:00"
@@ -2289,7 +2289,7 @@
     "cep": 69919670,
     "seq": 135.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": "01.030.787/001-17",
     "ativ": "AS",
     "iniciovenda": "2012-08-16 00:00:00"
@@ -2306,7 +2306,7 @@
     "cep": 93212220,
     "seq": 136.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": "132/0142459",
     "ativ": "AT",
     "iniciovenda": "2011-10-01 00:00:00"
@@ -2323,7 +2323,7 @@
     "cep": 12090000,
     "seq": 137.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 688187621115,
     "ativ": "AS",
     "iniciovenda": "2012-10-25 00:00:00"
@@ -2340,7 +2340,7 @@
     "cep": 61602815,
     "seq": 138.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 66129699,
     "ativ": "AS",
     "iniciovenda": "2013-02-14 00:00:00"
@@ -2357,7 +2357,7 @@
     "cep": 14800656,
     "seq": 139.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 181177556117,
     "ativ": "AS",
     "iniciovenda": "2012-11-27 00:00:00"
@@ -2374,7 +2374,7 @@
     "cep": 58304500,
     "seq": 140.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 162033044,
     "ativ": "AS",
     "iniciovenda": "2013-11-12 00:00:00"
@@ -2391,7 +2391,7 @@
     "cep": 36081500,
     "seq": 141.0,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 1865448230124,
     "ativ": "AS",
     "iniciovenda": "2012-12-20 00:00:00"
@@ -2408,7 +2408,7 @@
     "cep": 57314190,
     "seq": 142.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 242709826,
     "ativ": "AS",
     "iniciovenda": "2012-12-06 00:00:00"
@@ -2425,7 +2425,7 @@
     "cep": 69090002,
     "seq": 143.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": "05.340.749-0",
     "ativ": "AS",
     "iniciovenda": "2013-11-28 00:00:00"
@@ -2442,7 +2442,7 @@
     "cep": 53610000,
     "seq": 144.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 52357317,
     "ativ": "AS",
     "iniciovenda": "2014-05-14 00:00:00"
@@ -2459,7 +2459,7 @@
     "cep": 6683000,
     "seq": 145.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 373072583111,
     "ativ": "AS",
     "iniciovenda": "2013-11-07 00:00:00"
@@ -2476,7 +2476,7 @@
     "cep": 54774000,
     "seq": 146.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 52556000,
     "ativ": "AS",
     "iniciovenda": "2014-04-08 00:00:00"
@@ -2493,7 +2493,7 @@
     "cep": 66811000,
     "seq": 147.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 154074942,
     "ativ": "AS",
     "iniciovenda": "2014-02-06 00:00:00"
@@ -2510,7 +2510,7 @@
     "cep": 66811000,
     "seq": 148.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 154084964,
     "ativ": "AT",
     "iniciovenda": "2013-12-11 00:00:00"
@@ -2527,7 +2527,7 @@
     "cep": 65913410,
     "seq": 149.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 124185835,
     "ativ": "AT",
     "iniciovenda": "2013-11-08 00:00:00"
@@ -2544,7 +2544,7 @@
     "cep": 29167183,
     "seq": 150.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 83016210,
     "ativ": "AS",
     "iniciovenda": "2014-05-29 00:00:00"
@@ -2561,7 +2561,7 @@
     "cep": 28940000,
     "seq": 151.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 86678985,
     "ativ": "AS",
     "iniciovenda": "2014-07-02 00:00:00"
@@ -2578,7 +2578,7 @@
     "cep": 61771770,
     "seq": 152.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 67240305,
     "ativ": "AS",
     "iniciovenda": "2014-08-20 00:00:00"
@@ -2595,7 +2595,7 @@
     "cep": 68903419,
     "seq": 153.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 30482135,
     "ativ": "AS",
     "iniciovenda": "2014-11-20 00:00:00"
@@ -2612,7 +2612,7 @@
     "cep": 64030005,
     "seq": 154.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 195410190,
     "ativ": "AS",
     "iniciovenda": "2015-05-21 00:00:00"
@@ -2629,7 +2629,7 @@
     "cep": 75095235,
     "seq": 155.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 106085565,
     "ativ": "AS",
     "iniciovenda": "2015-08-27 00:00:00"
@@ -2646,7 +2646,7 @@
     "cep": 23575202,
     "seq": 156.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 86730430,
     "ativ": "AT",
     "iniciovenda": "2015-03-23 00:00:00"
@@ -2663,7 +2663,7 @@
     "cep": 18095410,
     "seq": 157.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 669834936111,
     "ativ": "AS",
     "iniciovenda": "2014-10-07 00:00:00"
@@ -2680,7 +2680,7 @@
     "cep": 9220570,
     "seq": 158.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 626924385114,
     "ativ": "AS",
     "iniciovenda": "2017-09-14 00:00:00"
@@ -2697,7 +2697,7 @@
     "cep": 42810200,
     "seq": 159.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 117480207,
     "ativ": "AS",
     "iniciovenda": "2014-12-03 00:00:00"
@@ -2714,7 +2714,7 @@
     "cep": 13454005,
     "seq": 160.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 606145103111,
     "ativ": "AS",
     "iniciovenda": "2014-11-12 00:00:00"
@@ -2731,7 +2731,7 @@
     "cep": 32600834,
     "seq": 161.0,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 1865448230205,
     "ativ": "AS",
     "iniciovenda": "2015-07-02 00:00:00"
@@ -2748,7 +2748,7 @@
     "cep": 88308001,
     "seq": 162.0,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 257502424,
     "ativ": "AS",
     "iniciovenda": "2015-11-12 00:00:00"
@@ -2765,7 +2765,7 @@
     "cep": 78140400,
     "seq": 163.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 135556031,
     "ativ": "AS",
     "iniciovenda": "2015-10-08 00:00:00"
@@ -2782,7 +2782,7 @@
     "cep": 35044000,
     "seq": 164.0,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 1865448230388,
     "ativ": "AS",
     "iniciovenda": "2014-11-19 00:00:00"
@@ -2799,7 +2799,7 @@
     "cep": 86027020,
     "seq": 165.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9068797869,
     "ativ": "AS",
     "iniciovenda": "2015-05-28 00:00:00"
@@ -2816,7 +2816,7 @@
     "cep": 85805516,
     "seq": 166.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9067841651,
     "ativ": "AS",
     "iniciovenda": "2015-06-11 00:00:00"
@@ -2833,7 +2833,7 @@
     "cep": 62051315,
     "seq": 167.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 64361462,
     "ativ": "AS",
     "iniciovenda": "2015-04-09 00:00:00"
@@ -2850,7 +2850,7 @@
     "cep": 25230005,
     "seq": 168.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 86853655,
     "ativ": "AS",
     "iniciovenda": "2015-11-26 00:00:00"
@@ -2867,7 +2867,7 @@
     "cep": 19067550,
     "seq": 169.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 562354877115,
     "ativ": "AS",
     "iniciovenda": "2018-09-27 00:00:00"
@@ -2884,7 +2884,7 @@
     "cep": 77808650,
     "seq": 170.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 294639942,
     "ativ": "AS",
     "iniciovenda": "2015-05-07 00:00:00"
@@ -2901,7 +2901,7 @@
     "cep": 83330110,
     "seq": 171.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9069057958,
     "ativ": "AT",
     "iniciovenda": "2015-07-01 00:00:00"
@@ -2918,7 +2918,7 @@
     "cep": 85864545,
     "seq": 172.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9069128057,
     "ativ": "AS",
     "iniciovenda": "2015-12-10 00:00:00"
@@ -2935,7 +2935,7 @@
     "cep": 69312600,
     "seq": 173.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 240280548,
     "ativ": "AS",
     "iniciovenda": "2015-12-03 00:00:00"
@@ -2952,7 +2952,7 @@
     "cep": 32145480,
     "seq": 174.0,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 1865448230469,
     "ativ": "AS",
     "iniciovenda": "2017-12-07 00:00:00"
@@ -2969,7 +2969,7 @@
     "cep": 32630405,
     "seq": 175.0,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 1865448230531,
     "ativ": "AT",
     "iniciovenda": "2015-08-10 00:00:00"
@@ -2986,7 +2986,7 @@
     "cep": 68035000,
     "seq": 176.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 154964077,
     "ativ": "AS",
     "iniciovenda": "2016-04-14 00:00:00"
@@ -3003,7 +3003,7 @@
     "cep": 12335010,
     "seq": 177.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 392181180112,
     "ativ": "CD",
     "iniciovenda": "2017-05-02 00:00:00"
@@ -3020,7 +3020,7 @@
     "cep": 8530460,
     "seq": 178.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 305138866112,
     "ativ": "AS",
     "iniciovenda": "2017-01-17 00:00:00"
@@ -3037,7 +3037,7 @@
     "cep": 44573520,
     "seq": 179.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 129193014,
     "ativ": "AS",
     "iniciovenda": "2016-02-18 00:00:00"
@@ -3054,7 +3054,7 @@
     "cep": 76987487,
     "seq": 180.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 4459067,
     "ativ": "AS",
     "iniciovenda": "2016-06-30 00:00:00"
@@ -3071,7 +3071,7 @@
     "cep": 53625815,
     "seq": 181.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 67196942,
     "ativ": "CD",
     "iniciovenda": "2016-11-10 00:00:00"
@@ -3088,7 +3088,7 @@
     "cep": 69070250,
     "seq": 182.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 53790723,
     "ativ": "AS",
     "iniciovenda": "2016-11-17 00:00:00"
@@ -3105,7 +3105,7 @@
     "cep": 60731335,
     "seq": 183.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 65325087,
     "ativ": "AS",
     "iniciovenda": "2017-11-16 00:00:00"
@@ -3122,7 +3122,7 @@
     "cep": 6602000,
     "seq": 184.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 398110070110,
     "ativ": "AS",
     "iniciovenda": "2016-11-16 00:00:00"
@@ -3139,7 +3139,7 @@
     "cep": 44079002,
     "seq": 185.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 133521087,
     "ativ": "AS",
     "iniciovenda": "2016-09-29 00:00:00"
@@ -3156,7 +3156,7 @@
     "cep": 48010970,
     "seq": 186.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 133521311,
     "ativ": "AS",
     "iniciovenda": "2019-03-28 00:00:00"
@@ -3173,7 +3173,7 @@
     "cep": 24856000,
     "seq": 187.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 87180956,
     "ativ": "AS",
     "iniciovenda": "2016-10-06 00:00:00"
@@ -3190,7 +3190,7 @@
     "cep": 13215485,
     "seq": 188.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 407562727110,
     "ativ": "AS",
     "iniciovenda": "2016-11-22 00:00:00"
@@ -3207,7 +3207,7 @@
     "cep": 11669330,
     "seq": 189.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 254178040114,
     "ativ": "AS",
     "iniciovenda": "2016-12-01 00:00:00"
@@ -3224,7 +3224,7 @@
     "cep": 6460030,
     "seq": 190.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 206433531113,
     "ativ": "AS",
     "iniciovenda": "2016-12-14 00:00:00"
@@ -3241,7 +3241,7 @@
     "cep": 78455000,
     "seq": 191.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 136579540,
     "ativ": "AS",
     "iniciovenda": "2017-03-27 00:00:00"
@@ -3258,7 +3258,7 @@
     "cep": 95880000,
     "seq": 192.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 440063264,
     "ativ": "AS",
     "iniciovenda": "2017-03-06 00:00:00"
@@ -3275,7 +3275,7 @@
     "cep": 58705275,
     "seq": 193.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 162880235,
     "ativ": "AS",
     "iniciovenda": "2017-07-13 00:00:00"
@@ -3292,7 +3292,7 @@
     "cep": 68507765,
     "seq": 194.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 155485725,
     "ativ": "AS",
     "iniciovenda": "2017-05-25 00:00:00"
@@ -3309,7 +3309,7 @@
     "cep": 76913811,
     "seq": 195.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 4816269,
     "ativ": "AS",
     "iniciovenda": "2018-01-25 00:00:00"
@@ -3326,7 +3326,7 @@
     "cep": 24451715,
     "seq": 196.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 87375641,
     "ativ": "AS",
     "iniciovenda": "2017-08-31 00:00:00"
@@ -3343,7 +3343,7 @@
     "cep": 89809000,
     "seq": 197.0,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 258338970,
     "ativ": "AS",
     "iniciovenda": "2017-09-21 00:00:00"
@@ -3360,7 +3360,7 @@
     "cep": 8730000,
     "seq": 198.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 454542542117,
     "ativ": "AS",
     "iniciovenda": "2018-06-14 00:00:00"
@@ -3377,7 +3377,7 @@
     "cep": 78300000,
     "seq": 199.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 136993990,
     "ativ": "AS",
     "iniciovenda": "2019-03-14 00:00:00"
@@ -3394,7 +3394,7 @@
     "cep": 45990678,
     "seq": 200.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 142875049,
     "ativ": "AS",
     "iniciovenda": "2018-02-22 00:00:00"
@@ -3411,7 +3411,7 @@
     "cep": 27525598,
     "seq": 201.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11075169,
     "ativ": "AS",
     "iniciovenda": "2018-03-22 00:00:00"
@@ -3428,7 +3428,7 @@
     "cep": 78600000,
     "seq": 202.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 137078692,
     "ativ": "AS",
     "iniciovenda": "2018-04-26 00:00:00"
@@ -3445,7 +3445,7 @@
     "cep": 14061710,
     "seq": 203.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 797354192114,
     "ativ": "AS",
     "iniciovenda": "2018-05-24 00:00:00"
@@ -3462,7 +3462,7 @@
     "cep": 22775113,
     "seq": 204.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11085253,
     "ativ": "AS",
     "iniciovenda": "2018-03-29 00:00:00"
@@ -3479,7 +3479,7 @@
     "cep": 6856000,
     "seq": 205.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 370169790114,
     "ativ": "AS",
     "iniciovenda": "2018-11-22 00:00:00"
@@ -3496,7 +3496,7 @@
     "cep": 89065800,
     "seq": 206.0,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 258614153,
     "ativ": "AS",
     "iniciovenda": "2018-05-17 00:00:00"
@@ -3513,7 +3513,7 @@
     "cep": 76812317,
     "seq": 207.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 5040256,
     "ativ": "AT",
     "iniciovenda": "2018-08-27 00:00:00"
@@ -3530,7 +3530,7 @@
     "cep": 74461005,
     "seq": 208.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 107243016,
     "ativ": "AS",
     "iniciovenda": "2018-07-26 00:00:00"
@@ -3547,7 +3547,7 @@
     "cep": 66023110,
     "seq": 209.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 155974793,
     "ativ": "AS",
     "iniciovenda": "2021-08-24 00:00:00"
@@ -3564,7 +3564,7 @@
     "cep": 57081285,
     "seq": 210.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 247602221,
     "ativ": "AT",
     "iniciovenda": "2018-09-24 00:00:00"
@@ -3581,7 +3581,7 @@
     "cep": 57038500,
     "seq": 211.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 247612898,
     "ativ": "AS",
     "iniciovenda": "2018-06-27 00:00:00"
@@ -3598,7 +3598,7 @@
     "cep": 18047770,
     "seq": 212.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 798142409118,
     "ativ": "AS",
     "iniciovenda": "2018-12-06 00:00:00"
@@ -3615,7 +3615,7 @@
     "cep": 15046840,
     "seq": 213.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 647952379116,
     "ativ": "AS",
     "iniciovenda": "2018-10-23 00:00:00"
@@ -3632,7 +3632,7 @@
     "cep": 57081285,
     "seq": 214.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 247637351,
     "ativ": "CD",
     "iniciovenda": "2018-09-17 00:00:00"
@@ -3649,7 +3649,7 @@
     "cep": 13563470,
     "seq": 215.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 637447333118,
     "ativ": "AS",
     "iniciovenda": "2018-06-28 00:00:00"
@@ -3666,7 +3666,7 @@
     "cep": 83040564,
     "seq": 216.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9078433784,
     "ativ": "AS",
     "iniciovenda": "2018-09-13 00:00:00"
@@ -3683,7 +3683,7 @@
     "cep": 6090010,
     "seq": 217.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 120013438112,
     "ativ": "AS",
     "iniciovenda": "2018-11-29 00:00:00"
@@ -3700,7 +3700,7 @@
     "cep": 59143360,
     "seq": 218.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 204952190,
     "ativ": "AT",
     "iniciovenda": "2018-12-04 00:00:00"
@@ -3717,7 +3717,7 @@
     "cep": 43700000,
     "seq": 219.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 149788599,
     "ativ": "AS",
     "iniciovenda": "2018-10-10 00:00:00"
@@ -3734,7 +3734,7 @@
     "cep": 3490000,
     "seq": 220.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 119660442111,
     "ativ": "AS",
     "iniciovenda": "2020-11-26 00:00:00"
@@ -3751,7 +3751,7 @@
     "cep": 87045000,
     "seq": 221.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9078817418,
     "ativ": "AS",
     "iniciovenda": "2019-01-24 00:00:00"
@@ -3768,7 +3768,7 @@
     "cep": 51030840,
     "seq": 222.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 78438012,
     "ativ": "AS",
     "iniciovenda": "2018-09-25 00:00:00"
@@ -3785,7 +3785,7 @@
     "cep": 4661300,
     "seq": 223.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 119844580115,
     "ativ": "AS",
     "iniciovenda": "2020-12-17 00:00:00"
@@ -3802,7 +3802,7 @@
     "cep": 68741000,
     "seq": 224.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 156151316,
     "ativ": "AS",
     "iniciovenda": "2019-02-28 00:00:00"
@@ -3819,7 +3819,7 @@
     "cep": 75515490,
     "seq": 225.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 107403250,
     "ativ": "AS",
     "iniciovenda": "2018-12-13 00:00:00"
@@ -3836,7 +3836,7 @@
     "cep": 74990840,
     "seq": 226.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 107402424,
     "ativ": "AT",
     "iniciovenda": "2018-12-12 00:00:00"
@@ -3853,7 +3853,7 @@
     "cep": 44900000,
     "seq": 227.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 153646997,
     "ativ": "AS",
     "iniciovenda": "2019-06-18 00:00:00"
@@ -3870,7 +3870,7 @@
     "cep": 12522640,
     "seq": 228.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 332205296119,
     "ativ": "AS",
     "iniciovenda": "2019-07-04 00:00:00"
@@ -3887,7 +3887,7 @@
     "cep": 11740000,
     "seq": 229.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 369171873118,
     "ativ": "AS",
     "iniciovenda": "2019-06-04 00:00:00"
@@ -3904,7 +3904,7 @@
     "cep": 14787284,
     "seq": 230.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 204251941117,
     "ativ": "AS",
     "iniciovenda": "2019-05-16 00:00:00"
@@ -3921,7 +3921,7 @@
     "cep": 79613000,
     "seq": 231.0,
     "diviso": "SUL",
-    "regional": "DR-MS",
+    "regional": "MS",
     "inscrest": 284372315,
     "ativ": "AS",
     "iniciovenda": "2019-06-25 00:00:00"
@@ -3938,7 +3938,7 @@
     "cep": 67113000,
     "seq": 232.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 156352702,
     "ativ": "AS",
     "iniciovenda": "2019-07-18 00:00:00"
@@ -3955,7 +3955,7 @@
     "cep": 11370400,
     "seq": 233.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 657418783110,
     "ativ": "AS",
     "iniciovenda": "2019-10-17 00:00:00"
@@ -3972,7 +3972,7 @@
     "cep": 56904320,
     "seq": 234.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 82429502,
     "ativ": "AS",
     "iniciovenda": "2019-07-11 00:00:00"
@@ -3989,7 +3989,7 @@
     "cep": 38050400,
     "seq": 235.0,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 1865448230612,
     "ativ": "AS",
     "iniciovenda": "2019-06-13 00:00:00"
@@ -4006,7 +4006,7 @@
     "cep": 94470000,
     "seq": 236.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 1590254306,
     "ativ": "AS",
     "iniciovenda": "2019-11-29 00:00:00"
@@ -4023,7 +4023,7 @@
     "cep": 55002970,
     "seq": 237.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 83829300,
     "ativ": "AS",
     "iniciovenda": "2019-12-12 00:00:00"
@@ -4040,7 +4040,7 @@
     "cep": 56318525,
     "seq": 238.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 83831037,
     "ativ": "AS",
     "iniciovenda": "2020-01-30 00:00:00"
@@ -4057,7 +4057,7 @@
     "cep": 59143360,
     "seq": 239.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 205228631,
     "ativ": "AS",
     "iniciovenda": "2019-10-31 00:00:00"
@@ -4074,7 +4074,7 @@
     "cep": 82590100,
     "seq": 240.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9082419834,
     "ativ": "AS",
     "iniciovenda": "2019-10-24 00:00:00"
@@ -4091,7 +4091,7 @@
     "cep": 21715252,
     "seq": 241.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11545807,
     "ativ": "AS",
     "iniciovenda": "2019-12-05 00:00:00"
@@ -4108,7 +4108,7 @@
     "cep": 69312600,
     "seq": 242.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 240370565,
     "ativ": "AT",
     "iniciovenda": "2019-10-28 00:00:00"
@@ -4125,7 +4125,7 @@
     "cep": 20930040,
     "seq": 243.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11555209,
     "ativ": "AS",
     "iniciovenda": "2019-11-27 00:00:00"
@@ -4142,7 +4142,7 @@
     "cep": 9406300,
     "seq": 244.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 581161820113,
     "ativ": "AS",
     "iniciovenda": "2020-03-12 00:00:00"
@@ -4159,7 +4159,7 @@
     "cep": 2861190,
     "seq": 245.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 128067174114,
     "ativ": "AS",
     "iniciovenda": "2021-03-29 00:00:00"
@@ -4176,7 +4176,7 @@
     "cep": 40285600,
     "seq": 246.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 163465702,
     "ativ": "AS",
     "iniciovenda": "2019-12-11 00:00:00"
@@ -4193,7 +4193,7 @@
     "cep": 64601382,
     "seq": 247.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 196587026,
     "ativ": "AS",
     "iniciovenda": "2020-06-17 00:00:00"
@@ -4210,7 +4210,7 @@
     "cep": 88820000,
     "seq": 248.0,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 260347035,
     "ativ": "AS",
     "iniciovenda": "2020-07-22 00:00:00"
@@ -4227,7 +4227,7 @@
     "cep": 68909094,
     "seq": 249.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 30625092,
     "ativ": "AS",
     "iniciovenda": "2020-08-29 00:00:00"
@@ -4244,7 +4244,7 @@
     "cep": 68909094,
     "seq": 250.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 30625076,
     "ativ": "AT",
     "iniciovenda": "2020-08-29 00:00:00"
@@ -4261,7 +4261,7 @@
     "cep": 16071340,
     "seq": 251.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 177469973110,
     "ativ": "AS",
     "iniciovenda": "2020-03-31 00:00:00"
@@ -4278,7 +4278,7 @@
     "cep": 86185700,
     "seq": 252.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9083853732,
     "ativ": "AS",
     "iniciovenda": "2020-03-26 00:00:00"
@@ -4295,7 +4295,7 @@
     "cep": 28635000,
     "seq": 253.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11746411,
     "ativ": "AS",
     "iniciovenda": "2020-11-26 00:00:00"
@@ -4312,7 +4312,7 @@
     "cep": 85025000,
     "seq": 254.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9084235340,
     "ativ": "AS",
     "iniciovenda": "2021-01-07 00:00:00"
@@ -4329,7 +4329,7 @@
     "cep": 87504530,
     "seq": 255.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9084166437,
     "ativ": "AS",
     "iniciovenda": "2020-12-03 00:00:00"
@@ -4346,7 +4346,7 @@
     "cep": 6709360,
     "seq": 256.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 278401352111,
     "ativ": "AS",
     "iniciovenda": "2020-12-08 00:00:00"
@@ -4363,7 +4363,7 @@
     "cep": 45810000,
     "seq": 257.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 165703146,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -4380,7 +4380,7 @@
     "cep": 53401435,
     "seq": 258.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 87745798,
     "ativ": "AS",
     "iniciovenda": "2020-12-01 00:00:00"
@@ -4397,7 +4397,7 @@
     "cep": 64030005,
     "seq": 259.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 196637910,
     "ativ": "AT",
     "iniciovenda": "2020-11-30 00:00:00"
@@ -4414,7 +4414,7 @@
     "cep": 13340600,
     "seq": 260.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 353409839110,
     "ativ": "AS",
     "iniciovenda": "2021-09-15 00:00:00"
@@ -4431,7 +4431,7 @@
     "cep": 13806635,
     "seq": 261.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 456208542110,
     "ativ": "AS",
     "iniciovenda": "2020-11-24 00:00:00"
@@ -4448,7 +4448,7 @@
     "cep": 12902001,
     "seq": 262.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 225355259119,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -4465,7 +4465,7 @@
     "cep": 4182001,
     "seq": 263.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 129660871115,
     "ativ": "AS",
     "iniciovenda": "2021-08-30 00:00:00"
@@ -4482,7 +4482,7 @@
     "cep": 28895640,
     "seq": 264.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11841570,
     "ativ": "AS",
     "iniciovenda": "2021-07-31 00:00:00"
@@ -4499,7 +4499,7 @@
     "cep": 9371904,
     "seq": 265.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 442508530114,
     "ativ": "AS",
     "iniciovenda": "2021-06-29 00:00:00"
@@ -4516,7 +4516,7 @@
     "cep": 12246840,
     "seq": 266.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 125288969111,
     "ativ": "AS",
     "iniciovenda": "2021-12-02 00:00:00"
@@ -4533,7 +4533,7 @@
     "cep": 57062280,
     "seq": 267.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 243712758,
     "ativ": "AS",
     "iniciovenda": "2020-12-23 00:00:00"
@@ -4550,7 +4550,7 @@
     "cep": 49097510,
     "seq": 268.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 271724862,
     "ativ": "AS",
     "iniciovenda": "2020-12-17 00:00:00"
@@ -4567,7 +4567,7 @@
     "cep": 21061020,
     "seq": 269.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11886043,
     "ativ": "AS",
     "iniciovenda": "2020-12-23 00:00:00"
@@ -4584,7 +4584,7 @@
     "cep": 67110000,
     "seq": 270.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 157239268,
     "ativ": "AS",
     "iniciovenda": "2021-04-21 00:00:00"
@@ -4601,7 +4601,7 @@
     "cep": 77021230,
     "seq": 271.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 295076313,
     "ativ": "AS",
     "iniciovenda": "2021-04-27 00:00:00"
@@ -4618,7 +4618,7 @@
     "cep": 23092001,
     "seq": 272.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11886035,
     "ativ": "AS",
     "iniciovenda": "2021-04-14 00:00:00"
@@ -4635,7 +4635,7 @@
     "cep": 58408330,
     "seq": 273.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 163816948,
     "ativ": "AS",
     "iniciovenda": "2020-12-21 00:00:00"
@@ -4652,7 +4652,7 @@
     "cep": 55293970,
     "seq": 274.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 92042538,
     "ativ": "AS",
     "iniciovenda": "2021-10-14 00:00:00"
@@ -4669,7 +4669,7 @@
     "cep": 69005015,
     "seq": 275.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 54266238,
     "ativ": "AS",
     "iniciovenda": "2021-06-01 00:00:00"
@@ -4686,7 +4686,7 @@
     "cep": 89216500,
     "seq": 276.0,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 260766186,
     "ativ": "AS",
     "iniciovenda": "2021-03-25 00:00:00"
@@ -4703,7 +4703,7 @@
     "cep": 93115000,
     "seq": 277.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 1240322620,
     "ativ": "AS",
     "iniciovenda": "2021-03-18 00:00:00"
@@ -4720,7 +4720,7 @@
     "cep": 95110310,
     "seq": 278.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 290668123,
     "ativ": "AS",
     "iniciovenda": "2021-03-19 00:00:00"
@@ -4737,7 +4737,7 @@
     "cep": 78040790,
     "seq": 279.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 138453861,
     "ativ": "AS",
     "iniciovenda": "2020-12-16 00:00:00"
@@ -4754,7 +4754,7 @@
     "cep": 69077000,
     "seq": 280.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 54266262,
     "ativ": "AS",
     "iniciovenda": "2021-05-28 00:00:00"
@@ -4771,7 +4771,7 @@
     "cep": 6444000,
     "seq": 281.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 206851732112,
     "ativ": "AS",
     "iniciovenda": "2023-09-30 00:00:00"
@@ -4788,7 +4788,7 @@
     "cep": 90200230,
     "seq": 282.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 963844857,
     "ativ": "AS",
     "iniciovenda": "2021-04-23 00:00:00"
@@ -4805,7 +4805,7 @@
     "cep": 27259010,
     "seq": 283.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11888852,
     "ativ": "AS",
     "iniciovenda": "2020-12-21 00:00:00"
@@ -4822,7 +4822,7 @@
     "cep": 88070120,
     "seq": 284.0,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 260773379,
     "ativ": "AS",
     "iniciovenda": "2021-04-23 00:00:00"
@@ -4839,7 +4839,7 @@
     "cep": 26280260,
     "seq": 285.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11888860,
     "ativ": "AS",
     "iniciovenda": "2021-04-22 00:00:00"
@@ -4856,7 +4856,7 @@
     "cep": 28030035,
     "seq": 286.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11895514,
     "ativ": "AS",
     "iniciovenda": "2021-05-07 00:00:00"
@@ -4873,7 +4873,7 @@
     "cep": 50781000,
     "seq": 287.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 92364497,
     "ativ": "AS",
     "iniciovenda": "2021-03-01 00:00:00"
@@ -4890,7 +4890,7 @@
     "cep": 22775003,
     "seq": 288.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11898556,
     "ativ": "AS",
     "iniciovenda": "2021-03-27 00:00:00"
@@ -4907,7 +4907,7 @@
     "cep": 71200140,
     "seq": 289.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 743302300544,
     "ativ": "AS",
     "iniciovenda": "2021-04-28 00:00:00"
@@ -4924,7 +4924,7 @@
     "cep": 78050568,
     "seq": 290.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 138514658,
     "ativ": "AS",
     "iniciovenda": "2021-03-04 00:00:00"
@@ -4941,7 +4941,7 @@
     "cep": 72444210,
     "seq": 291.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 743302300625,
     "ativ": "AS",
     "iniciovenda": "2021-03-11 00:00:00"
@@ -4958,7 +4958,7 @@
     "cep": 64014220,
     "seq": 292.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 196820324,
     "ativ": "AS",
     "iniciovenda": "2021-05-25 00:00:00"
@@ -4975,7 +4975,7 @@
     "cep": 74912650,
     "seq": 293.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 108188809,
     "ativ": "AS",
     "iniciovenda": "2021-01-25 00:00:00"
@@ -4992,7 +4992,7 @@
     "cep": 81010000,
     "seq": 294.0,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9087392640,
     "ativ": "AS",
     "iniciovenda": "2021-04-20 00:00:00"
@@ -5009,7 +5009,7 @@
     "cep": 41820021,
     "seq": 295.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 174476636,
     "ativ": "AS",
     "iniciovenda": "2021-04-29 00:00:00"
@@ -5026,7 +5026,7 @@
     "cep": 41290550,
     "seq": 296.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 174476744,
     "ativ": "AS",
     "iniciovenda": "2021-04-30 00:00:00"
@@ -5043,7 +5043,7 @@
     "cep": 88102600,
     "seq": 297.0,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 260860727,
     "ativ": "AS",
     "iniciovenda": "2021-05-13 00:00:00"
@@ -5060,7 +5060,7 @@
     "cep": 60860005,
     "seq": 298.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 61567159,
     "ativ": "AS",
     "iniciovenda": "2021-04-22 00:00:00"
@@ -5077,7 +5077,7 @@
     "cep": 60310055,
     "seq": 299.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 61567280,
     "ativ": "AS",
     "iniciovenda": "2021-08-24 00:00:00"
@@ -5094,7 +5094,7 @@
     "cep": 68035000,
     "seq": 300.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 157460975,
     "ativ": "AT",
     "iniciovenda": "2021-06-30 00:00:00"
@@ -5111,7 +5111,7 @@
     "cep": 74583285,
     "seq": 301.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 108302474,
     "ativ": "AS",
     "iniciovenda": "2021-05-14 00:00:00"
@@ -5128,7 +5128,7 @@
     "cep": 69919670,
     "seq": 302.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 107055300166,
     "ativ": "AT",
     "iniciovenda": "2021-11-26 00:00:00"
@@ -5145,7 +5145,7 @@
     "cep": 13175585,
     "seq": 303.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 671492913119,
     "ativ": "AS",
     "iniciovenda": "2021-10-13 00:00:00"
@@ -5162,7 +5162,7 @@
     "cep": 6126280,
     "seq": 304.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 120349134116,
     "ativ": "AS",
     "iniciovenda": "2021-12-17 00:00:00"
@@ -5179,7 +5179,7 @@
     "cep": 41260300,
     "seq": 305.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 180594661,
     "ativ": "AS",
     "iniciovenda": "2021-09-29 00:00:00"
@@ -5196,7 +5196,7 @@
     "cep": 54125130,
     "seq": 306.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 96757019,
     "ativ": "AS",
     "iniciovenda": "2021-07-28 00:00:00"
@@ -5213,7 +5213,7 @@
     "cep": 40280000,
     "seq": 307.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 180594779,
     "ativ": "AS",
     "iniciovenda": "2021-11-30 00:00:00"
@@ -5230,7 +5230,7 @@
     "cep": 88160500,
     "seq": 308.0,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 261117246,
     "ativ": "AS",
     "iniciovenda": "2021-12-07 00:00:00"
@@ -5247,7 +5247,7 @@
     "cep": 78850000,
     "seq": 309.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 138775958,
     "ativ": "AS",
     "iniciovenda": "2022-02-09 00:00:00"
@@ -5264,7 +5264,7 @@
     "cep": 55193566,
     "seq": 310.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 97359416,
     "ativ": "AS",
     "iniciovenda": "2022-09-29 00:00:00"
@@ -5281,7 +5281,7 @@
     "cep": 13223025,
     "seq": 311.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 712189100113,
     "ativ": "AS",
     "iniciovenda": "2021-12-09 00:00:00"
@@ -5298,7 +5298,7 @@
     "cep": 18078005,
     "seq": 312.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 798531511118,
     "ativ": "AS",
     "iniciovenda": "2021-12-16 00:00:00"
@@ -5315,7 +5315,7 @@
     "cep": 24904100,
     "seq": 313.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 12247397,
     "ativ": "AS",
     "iniciovenda": "2021-11-24 00:00:00"
@@ -5332,7 +5332,7 @@
     "cep": 72600500,
     "seq": 314.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 743302300978,
     "ativ": "AS",
     "iniciovenda": "2022-03-30 00:00:00"
@@ -5349,7 +5349,7 @@
     "cep": 6331008,
     "seq": 315.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 255613274118,
     "ativ": "AS",
     "iniciovenda": "2022-06-30 00:00:00"
@@ -5366,7 +5366,7 @@
     "cep": 39402665,
     "seq": 316.0,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 1865448230795,
     "ativ": "AT",
     "iniciovenda": "2021-11-30 00:00:00"
@@ -5383,7 +5383,7 @@
     "cep": 55540000,
     "seq": 317.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 100697046,
     "ativ": "AS",
     "iniciovenda": "2022-06-01 00:00:00"
@@ -5400,7 +5400,7 @@
     "cep": 9820000,
     "seq": 318.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 799526371118,
     "ativ": "AS",
     "iniciovenda": "2022-12-15 00:00:00"
@@ -5417,7 +5417,7 @@
     "cep": 45400000,
     "seq": 319.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 189133762,
     "ativ": "AS",
     "iniciovenda": "2022-05-17 00:00:00"
@@ -5434,7 +5434,7 @@
     "cep": 68440000,
     "seq": 320.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 158150066,
     "ativ": "AS",
     "iniciovenda": "2022-09-29 00:00:00"
@@ -5451,7 +5451,7 @@
     "cep": 9530200,
     "seq": 321.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 636486743118,
     "ativ": "AS",
     "iniciovenda": "2023-01-26 00:00:00"
@@ -5468,7 +5468,7 @@
     "cep": 55153270,
     "seq": 322.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 102644691,
     "ativ": "AS",
     "iniciovenda": "2022-06-28 00:00:00"
@@ -5485,7 +5485,7 @@
     "cep": 59300000,
     "seq": 323.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 206007094,
     "ativ": "AS",
     "iniciovenda": "2022-06-28 00:00:00"
@@ -5502,7 +5502,7 @@
     "cep": 8557700,
     "seq": 324.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 546247801118,
     "ativ": "AS",
     "iniciovenda": "2022-08-24 00:00:00"
@@ -5519,7 +5519,7 @@
     "cep": 19910530,
     "seq": 325.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 495280560117,
     "ativ": "AS",
     "iniciovenda": "2022-09-22 00:00:00"
@@ -5536,7 +5536,7 @@
     "cep": 13503539,
     "seq": 326.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 587463740119,
     "ativ": "AS",
     "iniciovenda": "2022-09-29 00:00:00"
@@ -5553,7 +5553,7 @@
     "cep": 13472253,
     "seq": 327.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 165615029114,
     "ativ": "AS",
     "iniciovenda": "2022-10-25 00:00:00"
@@ -5570,7 +5570,7 @@
     "cep": 78895350,
     "seq": 328.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 139426841,
     "ativ": "AS",
     "iniciovenda": "2022-10-18 00:00:00"
@@ -5587,7 +5587,7 @@
     "cep": 68551565,
     "seq": 329.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 159940877,
     "ativ": "AS",
     "iniciovenda": "2025-03-27 00:00:00"
@@ -5604,7 +5604,7 @@
     "cep": 28928548,
     "seq": 330.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 12498772,
     "ativ": "AS",
     "iniciovenda": "2022-09-22 00:00:00"
@@ -5621,7 +5621,7 @@
     "cep": 35700187,
     "seq": 331.0,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 1865448230876,
     "ativ": "AS",
     "iniciovenda": "2022-09-15 00:00:00"
@@ -5638,7 +5638,7 @@
     "cep": 9913000,
     "seq": 332.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 286769249110,
     "ativ": "AS",
     "iniciovenda": "2023-06-29 00:00:00"
@@ -5655,7 +5655,7 @@
     "cep": 3157201,
     "seq": 333.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 136212719110,
     "ativ": "AS",
     "iniciovenda": "2023-06-26 00:00:00"
@@ -5672,7 +5672,7 @@
     "cep": 41233030,
     "seq": 334.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 197019188,
     "ativ": "CD",
     "iniciovenda": "2022-11-03 00:00:00"
@@ -5689,7 +5689,7 @@
     "cep": 41219600,
     "seq": 335.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 207120099,
     "ativ": "AS",
     "iniciovenda": "2023-06-29 00:00:00"
@@ -5706,7 +5706,7 @@
     "cep": 71953100,
     "seq": 336.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 743302301001,
     "ativ": "AS",
     "iniciovenda": "2023-05-25 00:00:00"
@@ -5723,7 +5723,7 @@
     "cep": 77403218,
     "seq": 337.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 295241594,
     "ativ": "AS",
     "iniciovenda": "2022-11-30 00:00:00"
@@ -5740,7 +5740,7 @@
     "cep": 18609070,
     "seq": 338.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 224365297118,
     "ativ": "AS",
     "iniciovenda": "2023-06-28 00:00:00"
@@ -5757,7 +5757,7 @@
     "cep": 73813550,
     "seq": 339.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 109533011,
     "ativ": "AS",
     "iniciovenda": "2022-12-08 00:00:00"
@@ -5774,7 +5774,7 @@
     "cep": 8577000,
     "seq": 340.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 379554464114,
     "ativ": "AS",
     "iniciovenda": "2023-02-23 00:00:00"
@@ -5791,7 +5791,7 @@
     "cep": 13184668,
     "seq": 341.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 748461574110,
     "ativ": "AS",
     "iniciovenda": "2023-04-27 00:00:00"
@@ -5808,7 +5808,7 @@
     "cep": 93214170,
     "seq": 342.0,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": "132/0176965",
     "ativ": "CD",
     "iniciovenda": "2023-08-01 00:00:00"
@@ -5825,7 +5825,7 @@
     "cep": 73020680,
     "seq": 343.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 743302301192,
     "ativ": "AS",
     "iniciovenda": "2023-05-30 00:00:00"
@@ -5842,7 +5842,7 @@
     "cep": 78705162,
     "seq": 344.0,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 139775455,
     "ativ": "AS",
     "iniciovenda": "2023-03-23 00:00:00"
@@ -5859,7 +5859,7 @@
     "cep": 7243590,
     "seq": 345.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 127821380114,
     "ativ": "AS",
     "iniciovenda": "2023-09-15 00:00:00"
@@ -5876,7 +5876,7 @@
     "cep": 9981360,
     "seq": 346.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 286792524116,
     "ativ": "AS",
     "iniciovenda": "2023-06-29 00:00:00"
@@ -5893,7 +5893,7 @@
     "cep": 45655650,
     "seq": 347.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 202869913,
     "ativ": "AS",
     "iniciovenda": "2023-07-01 00:00:00"
@@ -5910,7 +5910,7 @@
     "cep": 79076168,
     "seq": 348.0,
     "diviso": "SUL",
-    "regional": "DR-MS",
+    "regional": "MS",
     "inscrest": 284804673,
     "ativ": "AS",
     "iniciovenda": "2023-08-15 00:00:00"
@@ -5927,7 +5927,7 @@
     "cep": 54735110,
     "seq": 349.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 109188411,
     "ativ": "AS",
     "iniciovenda": "2023-06-22 00:00:00"
@@ -5944,7 +5944,7 @@
     "cep": 55602000,
     "seq": 350.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 109211766,
     "ativ": "AS",
     "iniciovenda": "2023-06-27 00:00:00"
@@ -5961,7 +5961,7 @@
     "cep": 14058000,
     "seq": 351.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 125729380119,
     "ativ": "CD",
     "iniciovenda": "2023-10-15 00:00:00"
@@ -5978,7 +5978,7 @@
     "cep": 69311137,
     "seq": 352.0,
     "diviso": "NORTE",
-    "regional": "DR-NO",
+    "regional": "NO",
     "inscrest": 240540941,
     "ativ": "AS",
     "iniciovenda": "2024-10-24 00:00:00"
@@ -5995,7 +5995,7 @@
     "cep": 89805203,
     "seq": 353.0,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 263593509,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -6012,7 +6012,7 @@
     "cep": 88509001,
     "seq": 354.0,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 263593517,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -6029,7 +6029,7 @@
     "cep": 88080050,
     "seq": 355.0,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 263622975,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -6046,7 +6046,7 @@
     "cep": 4864002,
     "seq": 356.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 149267562113,
     "ativ": "AT",
     "iniciovenda": "2006-07-06 00:00:00"
@@ -6063,7 +6063,7 @@
     "cep": 72150100,
     "seq": 357.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 743302300200,
     "ativ": "AS",
     "iniciovenda": "2010-04-27 00:00:00"
@@ -6080,7 +6080,7 @@
     "cep": 72150100,
     "seq": 358.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": "07.433.023/002-00",
     "ativ": "AT",
     "iniciovenda": "NaT"
@@ -6097,7 +6097,7 @@
     "cep": 7174005,
     "seq": 359.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 127821380114,
     "ativ": "AT",
     "iniciovenda": "2023-12-20 00:00:00"
@@ -6114,7 +6114,7 @@
     "cep": 77024546,
     "seq": 360.0,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": "29.412.510-8",
     "ativ": "AT",
     "iniciovenda": "2009-07-16 00:00:00"
@@ -6131,7 +6131,7 @@
     "cep": 6327290,
     "seq": 361.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 255762093110,
     "ativ": "AS",
     "iniciovenda": "1995-12-09 00:00:00"
@@ -6148,7 +6148,7 @@
     "cep": 13485342,
     "seq": 362.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 417825474111,
     "ativ": "AS",
     "iniciovenda": "2004-06-17 00:00:00"
@@ -6165,7 +6165,7 @@
     "cep": 9015310,
     "seq": 363.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 132974702117,
     "ativ": "AS",
     "iniciovenda": "1986-09-15 00:00:00"
@@ -6182,7 +6182,7 @@
     "cep": 12944006,
     "seq": 364.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 190452412110,
     "ativ": "AS",
     "iniciovenda": "2016-06-16 00:00:00"
@@ -6199,7 +6199,7 @@
     "cep": 7140230,
     "seq": 365.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 132974711118,
     "ativ": "AS",
     "iniciovenda": "2003-05-15 00:00:00"
@@ -6216,7 +6216,7 @@
     "cep": 40110100,
     "seq": 366.0,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 215792824,
     "ativ": "AS",
     "iniciovenda": "2024-05-28 00:00:00"
@@ -6233,7 +6233,7 @@
     "cep": 60410321,
     "seq": 367.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 71800522,
     "ativ": "AS",
     "iniciovenda": "2024-05-28 00:00:00"
@@ -6250,7 +6250,7 @@
     "cep": 60710684,
     "seq": 368.0,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 71802460,
     "ativ": "AS",
     "iniciovenda": "2024-05-28 00:00:00"
@@ -6267,7 +6267,7 @@
     "cep": 13480672,
     "seq": 369.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 417828162112,
     "ativ": "AS",
     "iniciovenda": "2022-11-25 00:00:00"
@@ -6284,7 +6284,7 @@
     "cep": 11740000,
     "seq": 370.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 369280956114,
     "ativ": "AS",
     "iniciovenda": "2019-06-04 00:00:00"
@@ -6301,7 +6301,7 @@
     "cep": 7013050,
     "seq": 371.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 135271697111,
     "ativ": "AS",
     "iniciovenda": "2022-11-30 00:00:00"
@@ -6318,7 +6318,7 @@
     "cep": 15800610,
     "seq": 372.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 260331770114,
     "ativ": "AS",
     "iniciovenda": "2022-10-31 00:00:00"
@@ -6335,7 +6335,7 @@
     "cep": 13472253,
     "seq": 373.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 165689671117,
     "ativ": "AS",
     "iniciovenda": "2022-10-25 00:00:00"
@@ -6352,7 +6352,7 @@
     "cep": 14094140,
     "seq": 374.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 135277339113,
     "ativ": "AS",
     "iniciovenda": "2009-12-10 00:00:00"
@@ -6369,7 +6369,7 @@
     "cep": 8577000,
     "seq": 375.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 379624791110,
     "ativ": "AS",
     "iniciovenda": "2023-02-23 00:00:00"
@@ -6386,7 +6386,7 @@
     "cep": 7243590,
     "seq": 376.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 135277348114,
     "ativ": "AS",
     "iniciovenda": "2023-09-15 00:00:00"
@@ -6403,7 +6403,7 @@
     "cep": 7178580,
     "seq": 377.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 135277357115,
     "ativ": "AS",
     "iniciovenda": "2017-11-23 00:00:00"
@@ -6420,7 +6420,7 @@
     "cep": 17507650,
     "seq": 378.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 438676877113,
     "ativ": "AS",
     "iniciovenda": "2012-09-27 00:00:00"
@@ -6437,7 +6437,7 @@
     "cep": 9350000,
     "seq": 379.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 442725850111,
     "ativ": "AS",
     "iniciovenda": "2010-09-23 00:00:00"
@@ -6454,7 +6454,7 @@
     "cep": 13184668,
     "seq": 380.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 748521293119,
     "ativ": "AS",
     "iniciovenda": "2023-04-27 00:00:00"
@@ -6471,7 +6471,7 @@
     "cep": 13215485,
     "seq": 381.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 135277409115,
     "ativ": "AS",
     "iniciovenda": "2016-11-22 00:00:00"
@@ -6488,7 +6488,7 @@
     "cep": 6768000,
     "seq": 382.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 675596893110,
     "ativ": "AS",
     "iniciovenda": "2022-06-30 00:00:00"
@@ -6505,7 +6505,7 @@
     "cep": 12335010,
     "seq": 383.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 392512380111,
     "ativ": "AS",
     "iniciovenda": "2016-12-13 00:00:00"
@@ -6522,7 +6522,7 @@
     "cep": 9220570,
     "seq": 384.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 135277589117,
     "ativ": "AS",
     "iniciovenda": "2017-09-14 00:00:00"
@@ -6539,7 +6539,7 @@
     "cep": 6090010,
     "seq": 385.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 135277560115,
     "ativ": "AS",
     "iniciovenda": "2018-11-29 00:00:00"
@@ -6556,7 +6556,7 @@
     "cep": 13503539,
     "seq": 386.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 587512769116,
     "ativ": "AS",
     "iniciovenda": "2022-09-29 00:00:00"
@@ -6573,7 +6573,7 @@
     "cep": 9530200,
     "seq": 387.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 636558503118,
     "ativ": "AS",
     "iniciovenda": "2023-01-26 00:00:00"
@@ -6590,7 +6590,7 @@
     "cep": 9913000,
     "seq": 388.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 286853620112,
     "ativ": "AS",
     "iniciovenda": "2023-06-29 00:00:00"
@@ -6607,7 +6607,7 @@
     "cep": 14061710,
     "seq": 389.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 135277570110,
     "ativ": "AS",
     "iniciovenda": "2018-05-24 00:00:00"
@@ -6624,7 +6624,7 @@
     "cep": 18078005,
     "seq": 390.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 798933823111,
     "ativ": "AS",
     "iniciovenda": "2021-12-16 00:00:00"
@@ -6641,7 +6641,7 @@
     "cep": 19910530,
     "seq": 391.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 495309300116,
     "ativ": "AS",
     "iniciovenda": "2022-09-22 00:00:00"
@@ -6658,7 +6658,7 @@
     "cep": 11370400,
     "seq": 392.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 657710182118,
     "ativ": "AS",
     "iniciovenda": "2019-10-17 00:00:00"
@@ -6675,7 +6675,7 @@
     "cep": 18609070,
     "seq": 393.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 224387263117,
     "ativ": "AS",
     "iniciovenda": "2023-06-28 00:00:00"
@@ -6692,7 +6692,7 @@
     "cep": 11669330,
     "seq": 394.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 254354210118,
     "ativ": "AS",
     "iniciovenda": "2016-12-01 00:00:00"
@@ -6709,7 +6709,7 @@
     "cep": 18095410,
     "seq": 395.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 798933832112,
     "ativ": "AS",
     "iniciovenda": "2014-10-07 00:00:00"
@@ -6726,7 +6726,7 @@
     "cep": 16071340,
     "seq": 396.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 177625441113,
     "ativ": "AS",
     "iniciovenda": "2020-03-31 00:00:00"
@@ -6743,7 +6743,7 @@
     "cep": 6126280,
     "seq": 397.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 135277598118,
     "ativ": "AS",
     "iniciovenda": "2021-12-17 00:00:00"
@@ -6760,7 +6760,7 @@
     "cep": 6602000,
     "seq": 398.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 398242543117,
     "ativ": "AS",
     "iniciovenda": "2016-11-16 00:00:00"
@@ -6777,7 +6777,7 @@
     "cep": 14787300,
     "seq": 399.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 204357128116,
     "ativ": "AS",
     "iniciovenda": "2019-05-16 00:00:00"
@@ -6794,7 +6794,7 @@
     "cep": 6709360,
     "seq": 400.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 278620063118,
     "ativ": "AS",
     "iniciovenda": "2020-12-08 00:00:00"
@@ -6811,7 +6811,7 @@
     "cep": 12090000,
     "seq": 401.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 688753803116,
     "ativ": "AS",
     "iniciovenda": "2012-10-25 00:00:00"
@@ -6828,7 +6828,7 @@
     "cep": 6331008,
     "seq": 402.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 255764723110,
     "ativ": "AS",
     "iniciovenda": "2022-06-30 00:00:00"
@@ -6845,7 +6845,7 @@
     "cep": 6444000,
     "seq": 403.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 206924660119,
     "ativ": "AS",
     "iniciovenda": "2023-09-30 00:00:00"
@@ -6862,7 +6862,7 @@
     "cep": 8557700,
     "seq": 404.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 546284344110,
     "ativ": "AS",
     "iniciovenda": "2022-08-24 00:00:00"
@@ -6879,7 +6879,7 @@
     "cep": 18047770,
     "seq": 405.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 798933841113,
     "ativ": "AS",
     "iniciovenda": "2018-12-06 00:00:00"
@@ -6896,7 +6896,7 @@
     "cep": 13340600,
     "seq": 406.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 353610766113,
     "ativ": "AS",
     "iniciovenda": "2021-09-15 00:00:00"
@@ -6913,7 +6913,7 @@
     "cep": 9820000,
     "seq": 407.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 799820970113,
     "ativ": "AS",
     "iniciovenda": "2022-12-15 00:00:00"
@@ -6930,7 +6930,7 @@
     "cep": 19067550,
     "seq": 408.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 562674134117,
     "ativ": "AS",
     "iniciovenda": "2018-09-27 00:00:00"
@@ -6947,7 +6947,7 @@
     "cep": 17033260,
     "seq": 409.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 135277603114,
     "ativ": "AS",
     "iniciovenda": "2012-05-03 00:00:00"
@@ -6964,7 +6964,7 @@
     "cep": 13060646,
     "seq": 410.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 135277612115,
     "ativ": "AS",
     "iniciovenda": "2010-05-27 00:00:00"
@@ -6981,7 +6981,7 @@
     "cep": 13080395,
     "seq": 411.0,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 135277621116,
     "ativ": "AS",
     "iniciovenda": "2004-03-04 00:00:00"
@@ -6998,7 +6998,7 @@
     "cep": 6683000,
     "seq": 412.0,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 373394233114,
     "ativ": "AS",
     "iniciovenda": "2013-11-07 00:00:00"
@@ -7015,7 +7015,7 @@
     "cep": 29110340,
     "seq": 413.0,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 84230916,
     "ativ": "AS",
     "iniciovenda": "2009-03-05 00:00:00"
@@ -7032,7 +7032,7 @@
     "cep": 58705280,
     "seq": 414.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 164888195,
     "ativ": "AS",
     "iniciovenda": "2017-07-13 00:00:00"
@@ -7049,7 +7049,7 @@
     "cep": 58402020,
     "seq": 415.0,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 164888209,
     "ativ": "AS",
     "iniciovenda": "2009-07-02 00:00:00"
@@ -7066,7 +7066,7 @@
     "cep": 38703236,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 11349421596,
     "ativ": "AS",
     "iniciovenda": "2022-11-16 00:00:00"
@@ -7083,7 +7083,7 @@
     "cep": 58408330,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 164888217,
     "ativ": "AS",
     "iniciovenda": "2020-12-21 00:00:00"
@@ -7100,7 +7100,7 @@
     "cep": 29167183,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 84230908,
     "ativ": "AS",
     "iniciovenda": "2014-05-29 00:00:00"
@@ -7117,7 +7117,7 @@
     "cep": 77024546,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 295417790,
     "ativ": "AS",
     "iniciovenda": "2009-07-16 00:00:00"
@@ -7134,7 +7134,7 @@
     "cep": 32210110,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 11349421340,
     "ativ": "AS",
     "iniciovenda": "2022-11-23 00:00:00"
@@ -7151,7 +7151,7 @@
     "cep": 77403218,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 295396210,
     "ativ": "AS",
     "iniciovenda": "2022-11-30 00:00:00"
@@ -7168,7 +7168,7 @@
     "cep": 77808650,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 295405929,
     "ativ": "AS",
     "iniciovenda": "2015-05-07 00:00:00"
@@ -7185,7 +7185,7 @@
     "cep": 9981360,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 286856860110,
     "ativ": "AS",
     "iniciovenda": "2023-06-29 00:00:00"
@@ -7202,7 +7202,7 @@
     "cep": 9371904,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 442729216118,
     "ativ": "AS",
     "iniciovenda": "2021-06-29 00:00:00"
@@ -7219,7 +7219,7 @@
     "cep": 13033050,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 135492276114,
     "ativ": "AS",
     "iniciovenda": "2011-12-28 00:00:00"
@@ -7236,7 +7236,7 @@
     "cep": 9406300,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 581238210117,
     "ativ": "AS",
     "iniciovenda": "2020-03-12 00:00:00"
@@ -7253,7 +7253,7 @@
     "cep": 26130010,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 14957375,
     "ativ": "AS",
     "iniciovenda": "2024-10-24 00:00:00"
@@ -7270,7 +7270,7 @@
     "cep": 1515000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 150627833113,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -7287,7 +7287,7 @@
     "cep": 1515000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 150627833113,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -7304,7 +7304,7 @@
     "cep": 1515000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 150627833113,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -7321,7 +7321,7 @@
     "cep": 24425005,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 14650580,
     "ativ": "AS",
     "iniciovenda": "2024-08-22 00:00:00"
@@ -7338,7 +7338,7 @@
     "cep": 9710193,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 799852083114,
     "ativ": "AS",
     "iniciovenda": "2022-11-25 00:00:00"
@@ -7355,7 +7355,7 @@
     "cep": 77021230,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 295427906,
     "ativ": "AS",
     "iniciovenda": "2021-04-27 00:00:00"
@@ -7372,7 +7372,7 @@
     "cep": 31741132,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 11349421421,
     "ativ": "AS",
     "iniciovenda": "2023-02-28 00:00:00"
@@ -7389,7 +7389,7 @@
     "cep": 14406005,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 150201464113,
     "ativ": "AS",
     "iniciovenda": "2014-01-16 00:00:00"
@@ -7406,7 +7406,7 @@
     "cep": 5577901,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 150627824112,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -7423,7 +7423,7 @@
     "cep": 6263220,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 151919633111,
     "ativ": "AS",
     "iniciovenda": "2025-04-24 00:00:00"
@@ -7440,7 +7440,7 @@
     "cep": 58075427,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 164955127,
     "ativ": "AS",
     "iniciovenda": "2009-08-27 00:00:00"
@@ -7457,7 +7457,7 @@
     "cep": 58304500,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 164984070,
     "ativ": "AS",
     "iniciovenda": "2013-11-12 00:00:00"
@@ -7474,7 +7474,7 @@
     "cep": 9190210,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 150460292112,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -7491,7 +7491,7 @@
     "cep": 20000001,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 14763554,
     "ativ": "AS",
     "iniciovenda": "2023-04-20 00:00:00"
@@ -7508,7 +7508,7 @@
     "cep": 52070060,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 117819123,
     "ativ": "AS",
     "iniciovenda": "2024-10-24 00:00:00"
@@ -7525,7 +7525,7 @@
     "cep": 54440055,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 117819204,
     "ativ": "AS",
     "iniciovenda": "2024-10-26 00:00:00"
@@ -7542,7 +7542,7 @@
     "cep": 52120000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 117819395,
     "ativ": "AS",
     "iniciovenda": "2024-11-07 00:00:00"
@@ -7559,7 +7559,7 @@
     "cep": 40140400,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 221180871,
     "ativ": "AS",
     "iniciovenda": "2024-09-24 00:00:00"
@@ -7576,7 +7576,7 @@
     "cep": 41830390,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 221180763,
     "ativ": "AS",
     "iniciovenda": "2024-09-26 00:00:00"
@@ -7593,7 +7593,7 @@
     "cep": 1138000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 151880816110,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -7610,7 +7610,7 @@
     "cep": 4045903,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 151976804117,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -7627,7 +7627,7 @@
     "cep": 21820959,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 15208694,
     "ativ": "AS",
     "iniciovenda": "2025-02-27 00:00:00"
@@ -7644,7 +7644,7 @@
     "cep": 2170000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 151516654112,
     "ativ": "AT",
     "iniciovenda": "NaT"
@@ -7661,7 +7661,7 @@
     "cep": 77019900,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 295491809,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -7678,7 +7678,7 @@
     "cep": 32210110,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 1860621910085,
     "ativ": "AS",
     "iniciovenda": "2022-11-23 00:00:00"
@@ -7695,7 +7695,7 @@
     "cep": 15800610,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 260097581119,
     "ativ": "AS",
     "iniciovenda": "2022-10-31 00:00:00"
@@ -7712,7 +7712,7 @@
     "cep": 38703236,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 1860621911561,
     "ativ": "AS",
     "iniciovenda": "2022-11-16 00:00:00"
@@ -7729,7 +7729,7 @@
     "cep": 13480672,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 417314521119,
     "ativ": "AS",
     "iniciovenda": "2022-11-25 00:00:00"
@@ -7746,7 +7746,7 @@
     "cep": 9710193,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 635308586113,
     "ativ": "AS",
     "iniciovenda": "2022-11-25 00:00:00"
@@ -7763,7 +7763,7 @@
     "cep": 7013050,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 336782093113,
     "ativ": "AS",
     "iniciovenda": "2022-11-30 00:00:00"
@@ -7780,7 +7780,7 @@
     "cep": 1138000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 115248370110,
     "ativ": "AS",
     "iniciovenda": "2022-12-15 00:00:00"
@@ -7797,7 +7797,7 @@
     "cep": 74810100,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 103903038,
     "ativ": "AS",
     "iniciovenda": "2023-04-25 00:00:00"
@@ -7814,7 +7814,7 @@
     "cep": 4045004,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 116820963111,
     "ativ": "AS",
     "iniciovenda": "2023-04-26 00:00:00"
@@ -7831,7 +7831,7 @@
     "cep": 20000001,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 77036717,
     "ativ": "AS",
     "iniciovenda": "2023-04-20 00:00:00"
@@ -7848,7 +7848,7 @@
     "cep": 31710400,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MG",
+    "regional": "MG",
     "inscrest": 1860621910573,
     "ativ": "AS",
     "iniciovenda": "2023-02-28 00:00:00"
@@ -7865,7 +7865,7 @@
     "cep": 2065000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 117038976119,
     "ativ": "AS",
     "iniciovenda": "2022-10-10 00:00:00"
@@ -7882,7 +7882,7 @@
     "cep": 11435000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 335670510116,
     "ativ": "AS",
     "iniciovenda": "2004-12-16 00:00:00"
@@ -7899,7 +7899,7 @@
     "cep": 11702200,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 558838251116,
     "ativ": "AS",
     "iniciovenda": "2002-12-05 00:00:00"
@@ -7916,7 +7916,7 @@
     "cep": 8685000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 672666836112,
     "ativ": "AS",
     "iniciovenda": "2005-04-28 00:00:00"
@@ -7933,7 +7933,7 @@
     "cep": 8530460,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 305321155110,
     "ativ": "AS",
     "iniciovenda": "2017-01-17 00:00:00"
@@ -7950,7 +7950,7 @@
     "cep": 6460030,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 206907835119,
     "ativ": "AS",
     "iniciovenda": "2016-12-14 00:00:00"
@@ -7967,7 +7967,7 @@
     "cep": 13563470,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 637686978116,
     "ativ": "AS",
     "iniciovenda": "2018-06-28 00:00:00"
@@ -7984,7 +7984,7 @@
     "cep": 13175585,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 671632343112,
     "ativ": "AS",
     "iniciovenda": "2021-10-13 00:00:00"
@@ -8001,7 +8001,7 @@
     "cep": 12220000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 132455306110,
     "ativ": "AS",
     "iniciovenda": "2009-05-21 00:00:00"
@@ -8018,7 +8018,7 @@
     "cep": 14800656,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 181609312116,
     "ativ": "AS",
     "iniciovenda": "2012-11-27 00:00:00"
@@ -8035,7 +8035,7 @@
     "cep": 6703000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 278608807115,
     "ativ": "AS",
     "iniciovenda": "2006-11-30 00:00:00"
@@ -8052,7 +8052,7 @@
     "cep": 94950001,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 1770110469,
     "ativ": "AS",
     "iniciovenda": "2024-02-15 00:00:00"
@@ -8069,7 +8069,7 @@
     "cep": 44460000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 164134077,
     "ativ": "AS",
     "iniciovenda": "2024-05-23 00:00:00"
@@ -8086,7 +8086,7 @@
     "cep": 41635150,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 213745387,
     "ativ": "AS",
     "iniciovenda": "2024-04-25 00:00:00"
@@ -8103,7 +8103,7 @@
     "cep": 13223025,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 712238095112,
     "ativ": "AS",
     "iniciovenda": "2021-12-09 00:00:00"
@@ -8120,7 +8120,7 @@
     "cep": 12246840,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 132456250112,
     "ativ": "AS",
     "iniciovenda": "2021-12-02 00:00:00"
@@ -8137,7 +8137,7 @@
     "cep": 58036880,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 164868283,
     "ativ": "AS",
     "iniciovenda": "2024-06-20 00:00:00"
@@ -8154,7 +8154,7 @@
     "cep": 13140842,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 513228269110,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -8171,7 +8171,7 @@
     "cep": 65060645,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 128846054,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -8188,7 +8188,7 @@
     "cep": 65913410,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 128716975,
     "ativ": "AS",
     "iniciovenda": "2011-06-09 00:00:00"
@@ -8205,7 +8205,7 @@
     "cep": 2170000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 151675770118,
     "ativ": "AT",
     "iniciovenda": "NaT"
@@ -8222,7 +8222,7 @@
     "cep": 78088505,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140177175,
     "ativ": "AT",
     "iniciovenda": "1975-05-07 00:00:00"
@@ -8239,7 +8239,7 @@
     "cep": 74990840,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 200748645,
     "ativ": "AT",
     "iniciovenda": "NaT"
@@ -8256,7 +8256,7 @@
     "cep": 44079002,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 210577945,
     "ativ": "AT",
     "iniciovenda": "2011-04-29 00:00:00"
@@ -8273,7 +8273,7 @@
     "cep": 45058000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 210578070,
     "ativ": "AT",
     "iniciovenda": "2014-02-10 00:00:00"
@@ -8290,7 +8290,7 @@
     "cep": 41233030,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211957771,
     "ativ": "CD",
     "iniciovenda": "2022-11-03 00:00:00"
@@ -8307,7 +8307,7 @@
     "cep": 58402020,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 163624194,
     "ativ": "AT",
     "iniciovenda": "NaT"
@@ -8324,7 +8324,7 @@
     "cep": 9220570,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 121616730117,
     "ativ": "AT",
     "iniciovenda": "NaT"
@@ -8341,7 +8341,7 @@
     "cep": 2065000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 126137680110,
     "ativ": "AS",
     "iniciovenda": "2022-09-02 00:00:00"
@@ -8358,7 +8358,7 @@
     "cep": 9290340,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 121096114119,
     "ativ": "AS",
     "iniciovenda": "2022-09-02 00:00:00"
@@ -8375,7 +8375,7 @@
     "cep": 9942000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 286288222112,
     "ativ": "AS",
     "iniciovenda": "2022-09-01 00:00:00"
@@ -8392,7 +8392,7 @@
     "cep": 12230000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 125176869118,
     "ativ": "AS",
     "iniciovenda": "2022-09-02 00:00:00"
@@ -8409,7 +8409,7 @@
     "cep": 12307000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 392361071118,
     "ativ": "AS",
     "iniciovenda": "2022-09-02 00:00:00"
@@ -8426,7 +8426,7 @@
     "cep": 27253005,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 11638007,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8443,7 +8443,7 @@
     "cep": 13304305,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 387303467110,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8460,7 +8460,7 @@
     "cep": 74055045,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 107850532,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8477,7 +8477,7 @@
     "cep": 13600515,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 182252107117,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8494,7 +8494,7 @@
     "cep": 13420360,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 535266048115,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8511,7 +8511,7 @@
     "cep": 45052000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 85323964,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8528,7 +8528,7 @@
     "cep": 87506370,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9086363507,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8545,7 +8545,7 @@
     "cep": 13840118,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 455270174110,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -8562,7 +8562,7 @@
     "cep": 29045403,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-RJ/ES",
+    "regional": "RJ/ES",
     "inscrest": 83698795,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -8579,7 +8579,7 @@
     "cep": 42700000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 76895315,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -8596,7 +8596,7 @@
     "cep": 83324292,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9049870180,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8613,7 +8613,7 @@
     "cep": 92310001,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 240296389,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8630,7 +8630,7 @@
     "cep": 19800300,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 189267581116,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -8647,7 +8647,7 @@
     "cep": 63024010,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 65732952,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -8664,7 +8664,7 @@
     "cep": 58432120,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 161612512,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -8681,7 +8681,7 @@
     "cep": 44007775,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 82627807,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8698,7 +8698,7 @@
     "cep": 96400000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 80188710,
     "ativ": "AS",
     "iniciovenda": "2022-11-30 00:00:00"
@@ -8715,7 +8715,7 @@
     "cep": 53130410,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 38158035,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -8732,7 +8732,7 @@
     "cep": 19067000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 562199170116,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8749,7 +8749,7 @@
     "cep": 81730000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9017960927,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8766,7 +8766,7 @@
     "cep": 41150000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 198308960,
     "ativ": "AS",
     "iniciovenda": "2022-11-30 00:00:00"
@@ -8783,7 +8783,7 @@
     "cep": 61939210,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 63794896,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -8800,7 +8800,7 @@
     "cep": 82300000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9021624702,
     "ativ": "AS",
     "iniciovenda": "2022-11-30 00:00:00"
@@ -8817,7 +8817,7 @@
     "cep": 91751000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 963198165,
     "ativ": "AS",
     "iniciovenda": "2022-11-25 00:00:00"
@@ -8834,7 +8834,7 @@
     "cep": 81690100,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9014507490,
     "ativ": "AS",
     "iniciovenda": "2022-12-08 00:00:00"
@@ -8851,7 +8851,7 @@
     "cep": 60175657,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 70890218,
     "ativ": "AS",
     "iniciovenda": "2022-11-30 00:00:00"
@@ -8868,7 +8868,7 @@
     "cep": 41235015,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 78500805,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -8885,7 +8885,7 @@
     "cep": 59054900,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 205317588,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8902,7 +8902,7 @@
     "cep": 88509000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 255814097,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -8919,7 +8919,7 @@
     "cep": 85909220,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9089406282,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8936,7 +8936,7 @@
     "cep": 42800071,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 166374042,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -8953,7 +8953,7 @@
     "cep": 88080050,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 254680950,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -8970,7 +8970,7 @@
     "cep": 90200230,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 962772119,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -8987,7 +8987,7 @@
     "cep": 81070001,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9057805223,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -9004,7 +9004,7 @@
     "cep": 64045795,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 194770680,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9021,7 +9021,7 @@
     "cep": 89805203,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 255831277,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9038,7 +9038,7 @@
     "cep": 40445080,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 77998249,
     "ativ": "AS",
     "iniciovenda": "2022-10-02 00:00:00"
@@ -9055,7 +9055,7 @@
     "cep": 93800252,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 1310134712,
     "ativ": "AS",
     "iniciovenda": "2023-04-27 00:00:00"
@@ -9072,7 +9072,7 @@
     "cep": 81720000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9018090110,
     "ativ": "AS",
     "iniciovenda": "2023-03-30 00:00:00"
@@ -9089,7 +9089,7 @@
     "cep": 94810000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 1650106715,
     "ativ": "AS",
     "iniciovenda": "2023-05-11 00:00:00"
@@ -9106,7 +9106,7 @@
     "cep": 81130000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9022047920,
     "ativ": "AS",
     "iniciovenda": "2023-04-18 00:00:00"
@@ -9123,7 +9123,7 @@
     "cep": 97502810,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 1530135777,
     "ativ": "AS",
     "iniciovenda": "2023-04-27 00:00:00"
@@ -9140,7 +9140,7 @@
     "cep": 97020355,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 1090365877,
     "ativ": "AS",
     "iniciovenda": "2023-04-25 00:00:00"
@@ -9157,7 +9157,7 @@
     "cep": 97574781,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 1060104765,
     "ativ": "AS",
     "iniciovenda": "2023-05-04 00:00:00"
@@ -9174,7 +9174,7 @@
     "cep": 80320300,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9082101230,
     "ativ": "AS",
     "iniciovenda": "2023-04-25 00:00:00"
@@ -9191,7 +9191,7 @@
     "cep": 82510290,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 1000765194,
     "ativ": "AS",
     "iniciovenda": "2023-04-28 00:00:00"
@@ -9208,7 +9208,7 @@
     "cep": 94030000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 570256895,
     "ativ": "AS",
     "iniciovenda": "2023-05-11 00:00:00"
@@ -9225,7 +9225,7 @@
     "cep": 49015230,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 271868562,
     "ativ": "AS",
     "iniciovenda": "2023-04-27 00:00:00"
@@ -9242,7 +9242,7 @@
     "cep": 85864498,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9087011604,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -9259,7 +9259,7 @@
     "cep": 14405000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 310780590119,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -9276,7 +9276,7 @@
     "cep": 96055030,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 930402456,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -9293,7 +9293,7 @@
     "cep": 98801590,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 1130152550,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -9310,7 +9310,7 @@
     "cep": 91140001,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 962772011,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -9327,7 +9327,7 @@
     "cep": 95913160,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 720129737,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9344,7 +9344,7 @@
     "cep": 96800000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 1080119024,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9361,7 +9361,7 @@
     "cep": 54590000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 38212935,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9378,7 +9378,7 @@
     "cep": 60720001,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 63644436,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9395,7 +9395,7 @@
     "cep": 6754190,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 675169337114,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -9412,7 +9412,7 @@
     "cep": 85055030,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-PR",
+    "regional": "PR",
     "inscrest": 9052073933,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -9429,7 +9429,7 @@
     "cep": 59607330,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 202508900,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -9446,7 +9446,7 @@
     "cep": 59146480,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 202370542,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -9463,7 +9463,7 @@
     "cep": 93320228,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 860399702,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -9480,7 +9480,7 @@
     "cep": 88308001,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 255480288,
     "ativ": "AS",
     "iniciovenda": "2022-10-03 00:00:00"
@@ -9497,7 +9497,7 @@
     "cep": 71205080,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 797827300210,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9514,7 +9514,7 @@
     "cep": 88805300,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SC",
+    "regional": "SC",
     "inscrest": 255870434,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9531,7 +9531,7 @@
     "cep": 13344480,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 353398794114,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9548,7 +9548,7 @@
     "cep": 57315745,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-PE",
+    "regional": "PE",
     "inscrest": 242183859,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9565,7 +9565,7 @@
     "cep": 40252390,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 164134077,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9582,7 +9582,7 @@
     "cep": 96202188,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 1000203686,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9599,7 +9599,7 @@
     "cep": 95054002,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-RS",
+    "regional": "RS",
     "inscrest": 290345561,
     "ativ": "AS",
     "iniciovenda": "2022-11-01 00:00:00"
@@ -9616,7 +9616,7 @@
     "cep": 78700905,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140038167,
     "ativ": "AS",
     "iniciovenda": "1999-09-02 00:00:00"
@@ -9633,7 +9633,7 @@
     "cep": 48909725,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 209301924,
     "ativ": "AS",
     "iniciovenda": "2008-11-27 00:00:00"
@@ -9650,7 +9650,7 @@
     "cep": 78750340,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140107029,
     "ativ": "AS",
     "iniciovenda": "2023-03-23 00:00:00"
@@ -9667,7 +9667,7 @@
     "cep": 78040790,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140107045,
     "ativ": "AS",
     "iniciovenda": "2020-12-16 00:00:00"
@@ -9684,7 +9684,7 @@
     "cep": 78055799,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140107037,
     "ativ": "AS",
     "iniciovenda": "2011-07-12 00:00:00"
@@ -9701,7 +9701,7 @@
     "cep": 78050568,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140107070,
     "ativ": "AS",
     "iniciovenda": "2021-03-04 00:00:00"
@@ -9718,7 +9718,7 @@
     "cep": 78455000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140107053,
     "ativ": "AS",
     "iniciovenda": "2017-03-27 00:00:00"
@@ -9735,7 +9735,7 @@
     "cep": 78850000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140107061,
     "ativ": "AS",
     "iniciovenda": "2022-02-09 00:00:00"
@@ -9752,7 +9752,7 @@
     "cep": 45045970,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 209291629,
     "ativ": "AS",
     "iniciovenda": "2009-01-15 00:00:00"
@@ -9769,7 +9769,7 @@
     "cep": 78158034,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140107088,
     "ativ": "AS",
     "iniciovenda": "2015-10-08 00:00:00"
@@ -9786,7 +9786,7 @@
     "cep": 45400000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 209534061,
     "ativ": "AS",
     "iniciovenda": "2022-05-17 00:00:00"
@@ -9803,7 +9803,7 @@
     "cep": 78600000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140116591,
     "ativ": "AS",
     "iniciovenda": "2018-04-26 00:00:00"
@@ -9820,7 +9820,7 @@
     "cep": 78300000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140116630,
     "ativ": "AS",
     "iniciovenda": "2019-03-14 00:00:00"
@@ -9837,7 +9837,7 @@
     "cep": 78895350,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140116648,
     "ativ": "AS",
     "iniciovenda": "2022-10-18 00:00:00"
@@ -9854,7 +9854,7 @@
     "cep": 72874190,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 200634046,
     "ativ": "AS",
     "iniciovenda": "2008-11-18 00:00:00"
@@ -9871,7 +9871,7 @@
     "cep": 73813550,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 200638130,
     "ativ": "AS",
     "iniciovenda": "2022-12-08 00:00:00"
@@ -9888,7 +9888,7 @@
     "cep": 44445450,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 209534179,
     "ativ": "AS",
     "iniciovenda": "2016-02-18 00:00:00"
@@ -9905,7 +9905,7 @@
     "cep": 75095235,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 200638114,
     "ativ": "AS",
     "iniciovenda": "2015-08-27 00:00:00"
@@ -9922,7 +9922,7 @@
     "cep": 75516372,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 200637967,
     "ativ": "AS",
     "iniciovenda": "2018-12-13 00:00:00"
@@ -9939,7 +9939,7 @@
     "cep": 78550000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140116656,
     "ativ": "AS",
     "iniciovenda": "2008-10-23 00:00:00"
@@ -9956,7 +9956,7 @@
     "cep": 45662000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211784386,
     "ativ": "AS",
     "iniciovenda": "2010-07-08 00:00:00"
@@ -9973,7 +9973,7 @@
     "cep": 42700000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211858645,
     "ativ": "AS",
     "iniciovenda": "2004-09-30 00:00:00"
@@ -9990,7 +9990,7 @@
     "cep": 44079002,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 210361133,
     "ativ": "AS",
     "iniciovenda": "2016-09-29 00:00:00"
@@ -10007,7 +10007,7 @@
     "cep": 43700000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211952992,
     "ativ": "AS",
     "iniciovenda": "2018-10-10 00:00:00"
@@ -10024,7 +10024,7 @@
     "cep": 45990678,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211049274,
     "ativ": "AS",
     "iniciovenda": "2018-02-22 00:00:00"
@@ -10041,7 +10041,7 @@
     "cep": 45825580,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 212245770,
     "ativ": "AS",
     "iniciovenda": "2009-08-06 00:00:00"
@@ -10058,7 +10058,7 @@
     "cep": 45810000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 212245888,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -10075,7 +10075,7 @@
     "cep": 44900000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211706490,
     "ativ": "AS",
     "iniciovenda": "2019-06-18 00:00:00"
@@ -10092,7 +10092,7 @@
     "cep": 44023010,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 210359947,
     "ativ": "AS",
     "iniciovenda": "2008-03-06 00:00:00"
@@ -10109,7 +10109,7 @@
     "cep": 42810200,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211956538,
     "ativ": "AS",
     "iniciovenda": "2014-12-03 00:00:00"
@@ -10126,7 +10126,7 @@
     "cep": 40280000,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211957113,
     "ativ": "AS",
     "iniciovenda": "2021-11-30 00:00:00"
@@ -10143,7 +10143,7 @@
     "cep": 41342846,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211957663,
     "ativ": "AS",
     "iniciovenda": "2006-09-08 00:00:00"
@@ -10160,7 +10160,7 @@
     "cep": 40285600,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211958356,
     "ativ": "AS",
     "iniciovenda": "2019-12-11 00:00:00"
@@ -10177,7 +10177,7 @@
     "cep": 40310010,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211958572,
     "ativ": "AS",
     "iniciovenda": "2002-10-03 00:00:00"
@@ -10194,7 +10194,7 @@
     "cep": 41820021,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211959049,
     "ativ": "AS",
     "iniciovenda": "2021-04-29 00:00:00"
@@ -10211,7 +10211,7 @@
     "cep": 41219600,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211958806,
     "ativ": "AS",
     "iniciovenda": "2023-06-29 00:00:00"
@@ -10228,7 +10228,7 @@
     "cep": 75906605,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 200633996,
     "ativ": "AS",
     "iniciovenda": "2010-08-10 00:00:00"
@@ -10245,7 +10245,7 @@
     "cep": 41260300,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211958914,
     "ativ": "AS",
     "iniciovenda": "2021-09-29 00:00:00"
@@ -10262,7 +10262,7 @@
     "cep": 48005880,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 210127377,
     "ativ": "AS",
     "iniciovenda": "2019-03-28 00:00:00"
@@ -10279,7 +10279,7 @@
     "cep": 41290550,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 211935009,
     "ativ": "AS",
     "iniciovenda": "2021-04-30 00:00:00"
@@ -10296,7 +10296,7 @@
     "cep": 47803550,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 210557541,
     "ativ": "AS",
     "iniciovenda": "2010-02-11 00:00:00"
@@ -10313,7 +10313,7 @@
     "cep": 78085000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140177191,
     "ativ": "AS",
     "iniciovenda": "1999-11-18 00:00:00"
@@ -10330,7 +10330,7 @@
     "cep": 78020300,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-MT",
+    "regional": "MT",
     "inscrest": 140177183,
     "ativ": "AS",
     "iniciovenda": "1986-09-25 00:00:00"
@@ -10347,7 +10347,7 @@
     "cep": 74593850,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 200747800,
     "ativ": "AS",
     "iniciovenda": "2007-11-29 00:00:00"
@@ -10364,7 +10364,7 @@
     "cep": 74583285,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 200747525,
     "ativ": "AS",
     "iniciovenda": "2021-05-14 00:00:00"
@@ -10381,7 +10381,7 @@
     "cep": 74912650,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 200756966,
     "ativ": "AS",
     "iniciovenda": "2021-01-25 00:00:00"
@@ -10398,7 +10398,7 @@
     "cep": 45655650,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 210577729,
     "ativ": "AS",
     "iniciovenda": "2023-07-01 00:00:00"
@@ -10415,7 +10415,7 @@
     "cep": 44079002,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 210577837,
     "ativ": "AS",
     "iniciovenda": "2008-11-21 00:00:00"
@@ -10432,7 +10432,7 @@
     "cep": 9655000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 799885265114,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -10449,7 +10449,7 @@
     "cep": 9655000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 799885265114,
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -10466,7 +10466,7 @@
     "cep": 74935530,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 200809628,
     "ativ": "AS",
     "iniciovenda": "2011-09-29 00:00:00"
@@ -10483,7 +10483,7 @@
     "cep": 74445357,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-DF/GO",
+    "regional": "DF/GO",
     "inscrest": 200809660,
     "ativ": "AS",
     "iniciovenda": "2018-07-26 00:00:00"
@@ -10500,7 +10500,7 @@
     "cep": 3653000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 132204270116,
     "ativ": "AS",
     "iniciovenda": "2024-03-20 00:00:00"
@@ -10517,7 +10517,7 @@
     "cep": 5110000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 132204289113,
     "ativ": "AS",
     "iniciovenda": "2024-03-20 00:00:00"
@@ -10534,7 +10534,7 @@
     "cep": 5317000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 132204298114,
     "ativ": "AS",
     "iniciovenda": "2024-03-20 00:00:00"
@@ -10551,7 +10551,7 @@
     "cep": 8730000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 454982826110,
     "ativ": "AS",
     "iniciovenda": "2018-06-14 00:00:00"
@@ -10568,7 +10568,7 @@
     "cep": 6856000,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 370298447114,
     "ativ": "AS",
     "iniciovenda": "2018-11-22 00:00:00"
@@ -10585,7 +10585,7 @@
     "cep": 40275160,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-BA/SE",
+    "regional": "BA/SE",
     "inscrest": 213579481,
     "ativ": "AS",
     "iniciovenda": "2024-01-10 00:00:00"
@@ -10602,7 +10602,7 @@
     "cep": 9891001,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP CAPITAL",
+    "regional": "SPC",
     "inscrest": 799797180111,
     "ativ": "AS",
     "iniciovenda": "2009-01-29 00:00:00"
@@ -10619,7 +10619,7 @@
     "cep": 15046840,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 132455272112,
     "ativ": "AS",
     "iniciovenda": "2018-10-23 00:00:00"
@@ -10636,7 +10636,7 @@
     "cep": 13806635,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 456262333113,
     "ativ": "AS",
     "iniciovenda": "2020-11-24 00:00:00"
@@ -10653,7 +10653,7 @@
     "cep": 13411068,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 132455281113,
     "ativ": "AS",
     "iniciovenda": "2009-07-23 00:00:00"
@@ -10670,7 +10670,7 @@
     "cep": 12522640,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 332302636112,
     "ativ": "AS",
     "iniciovenda": "2019-07-04 00:00:00"
@@ -10687,7 +10687,7 @@
     "cep": 13454005,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 606422278118,
     "ativ": "AS",
     "iniciovenda": "2014-11-12 00:00:00"
@@ -10704,7 +10704,7 @@
     "cep": 15014050,
     "seq": NaN,
     "diviso": "SUL",
-    "regional": "DR-SP INTERIOR",
+    "regional": "SPI",
     "inscrest": 132455290114,
     "ativ": "AS",
     "iniciovenda": "2001-06-07 00:00:00"
@@ -10721,7 +10721,7 @@
     "cep": 60310055,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": "ISENTO",
     "ativ": "AS",
     "iniciovenda": "NaT"
@@ -10738,7 +10738,7 @@
     "cep": 65125406,
     "seq": NaN,
     "diviso": "NORTE",
-    "regional": "DR-CE",
+    "regional": "CE",
     "inscrest": 129176729,
     "ativ": "AS",
     "iniciovenda": "NaT"
